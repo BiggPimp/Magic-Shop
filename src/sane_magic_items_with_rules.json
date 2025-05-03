@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Potion of Healing",
+    "description": "A red-glass vial filled with swirling liquid warmth.",
+    "rules": "You regain 2d4 + 2 hit points when you drink this potion.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "A well-worn canvas bag that always feels light.",
+    "rules": "This bag can hold up to 500 pounds, not exceeding 64 cubic feet.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "A polished ebony wand that vibrates with energy.",
+    "rules": "This wand has 7 charges. Use an action to cast Magic Missile (1 charge per use).",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "A shimmering pearl that pulses with arcane power.",
+    "rules": "Once per day, use an action to regain one expended spell slot (up to 3rd level).",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "A silvery, leafy cloak that shifts with the light.",
+    "rules": "Advantage on Stealth checks; attackers have disadvantage on Perception checks to see you.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "A sword with a burning red gem in the hilt.",
+    "rules": "Speak a command word to ignite it. Adds 2d6 fire damage on hit.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "A stack of aged cards that flicker with phantasmal images.",
+    "rules": "Draw a card to create an illusion of a creature. Lasts until dispelled.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "A golden chain holding glowing red beads.",
+    "rules": "Each bead is a Fireball spell you can throw. Beads can be removed and used individually.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A sturdy wooden broom that thrums with arcane wind.",
+    "rules": "The broom can carry up to 400 lbs and flies at 50 ft speed.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  }
+]

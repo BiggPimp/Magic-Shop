@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "Magic Item 1",
+    "description": "This is the description for Magic Item 1, a powerful and mysterious artifact.",
+    "price": 100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 2",
+    "description": "This is the description for Magic Item 2, a powerful and mysterious artifact.",
+    "price": 200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 3",
+    "description": "This is the description for Magic Item 3, a powerful and mysterious artifact.",
+    "price": 300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 4",
+    "description": "This is the description for Magic Item 4, a powerful and mysterious artifact.",
+    "price": 400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 5",
+    "description": "This is the description for Magic Item 5, a powerful and mysterious artifact.",
+    "price": 500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 6",
+    "description": "This is the description for Magic Item 6, a powerful and mysterious artifact.",
+    "price": 600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 7",
+    "description": "This is the description for Magic Item 7, a powerful and mysterious artifact.",
+    "price": 700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 8",
+    "description": "This is the description for Magic Item 8, a powerful and mysterious artifact.",
+    "price": 800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 9",
+    "description": "This is the description for Magic Item 9, a powerful and mysterious artifact.",
+    "price": 900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 10",
+    "description": "This is the description for Magic Item 10, a powerful and mysterious artifact.",
+    "price": 1000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 11",
+    "description": "This is the description for Magic Item 11, a powerful and mysterious artifact.",
+    "price": 1100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 12",
+    "description": "This is the description for Magic Item 12, a powerful and mysterious artifact.",
+    "price": 1200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 13",
+    "description": "This is the description for Magic Item 13, a powerful and mysterious artifact.",
+    "price": 1300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 14",
+    "description": "This is the description for Magic Item 14, a powerful and mysterious artifact.",
+    "price": 1400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 15",
+    "description": "This is the description for Magic Item 15, a powerful and mysterious artifact.",
+    "price": 1500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 16",
+    "description": "This is the description for Magic Item 16, a powerful and mysterious artifact.",
+    "price": 1600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 17",
+    "description": "This is the description for Magic Item 17, a powerful and mysterious artifact.",
+    "price": 1700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 18",
+    "description": "This is the description for Magic Item 18, a powerful and mysterious artifact.",
+    "price": 1800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 19",
+    "description": "This is the description for Magic Item 19, a powerful and mysterious artifact.",
+    "price": 1900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 20",
+    "description": "This is the description for Magic Item 20, a powerful and mysterious artifact.",
+    "price": 2000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 21",
+    "description": "This is the description for Magic Item 21, a powerful and mysterious artifact.",
+    "price": 2100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 22",
+    "description": "This is the description for Magic Item 22, a powerful and mysterious artifact.",
+    "price": 2200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 23",
+    "description": "This is the description for Magic Item 23, a powerful and mysterious artifact.",
+    "price": 2300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 24",
+    "description": "This is the description for Magic Item 24, a powerful and mysterious artifact.",
+    "price": 2400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 25",
+    "description": "This is the description for Magic Item 25, a powerful and mysterious artifact.",
+    "price": 2500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 26",
+    "description": "This is the description for Magic Item 26, a powerful and mysterious artifact.",
+    "price": 2600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 27",
+    "description": "This is the description for Magic Item 27, a powerful and mysterious artifact.",
+    "price": 2700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 28",
+    "description": "This is the description for Magic Item 28, a powerful and mysterious artifact.",
+    "price": 2800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 29",
+    "description": "This is the description for Magic Item 29, a powerful and mysterious artifact.",
+    "price": 2900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 30",
+    "description": "This is the description for Magic Item 30, a powerful and mysterious artifact.",
+    "price": 3000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 31",
+    "description": "This is the description for Magic Item 31, a powerful and mysterious artifact.",
+    "price": 3100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 32",
+    "description": "This is the description for Magic Item 32, a powerful and mysterious artifact.",
+    "price": 3200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 33",
+    "description": "This is the description for Magic Item 33, a powerful and mysterious artifact.",
+    "price": 3300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 34",
+    "description": "This is the description for Magic Item 34, a powerful and mysterious artifact.",
+    "price": 3400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 35",
+    "description": "This is the description for Magic Item 35, a powerful and mysterious artifact.",
+    "price": 3500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 36",
+    "description": "This is the description for Magic Item 36, a powerful and mysterious artifact.",
+    "price": 3600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 37",
+    "description": "This is the description for Magic Item 37, a powerful and mysterious artifact.",
+    "price": 3700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 38",
+    "description": "This is the description for Magic Item 38, a powerful and mysterious artifact.",
+    "price": 3800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 39",
+    "description": "This is the description for Magic Item 39, a powerful and mysterious artifact.",
+    "price": 3900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 40",
+    "description": "This is the description for Magic Item 40, a powerful and mysterious artifact.",
+    "price": 4000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 41",
+    "description": "This is the description for Magic Item 41, a powerful and mysterious artifact.",
+    "price": 4100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 42",
+    "description": "This is the description for Magic Item 42, a powerful and mysterious artifact.",
+    "price": 4200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 43",
+    "description": "This is the description for Magic Item 43, a powerful and mysterious artifact.",
+    "price": 4300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 44",
+    "description": "This is the description for Magic Item 44, a powerful and mysterious artifact.",
+    "price": 4400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 45",
+    "description": "This is the description for Magic Item 45, a powerful and mysterious artifact.",
+    "price": 4500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 46",
+    "description": "This is the description for Magic Item 46, a powerful and mysterious artifact.",
+    "price": 4600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 47",
+    "description": "This is the description for Magic Item 47, a powerful and mysterious artifact.",
+    "price": 4700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 48",
+    "description": "This is the description for Magic Item 48, a powerful and mysterious artifact.",
+    "price": 4800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 49",
+    "description": "This is the description for Magic Item 49, a powerful and mysterious artifact.",
+    "price": 4900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 50",
+    "description": "This is the description for Magic Item 50, a powerful and mysterious artifact.",
+    "price": 5000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 51",
+    "description": "This is the description for Magic Item 51, a powerful and mysterious artifact.",
+    "price": 5100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 52",
+    "description": "This is the description for Magic Item 52, a powerful and mysterious artifact.",
+    "price": 5200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 53",
+    "description": "This is the description for Magic Item 53, a powerful and mysterious artifact.",
+    "price": 5300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 54",
+    "description": "This is the description for Magic Item 54, a powerful and mysterious artifact.",
+    "price": 5400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 55",
+    "description": "This is the description for Magic Item 55, a powerful and mysterious artifact.",
+    "price": 5500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 56",
+    "description": "This is the description for Magic Item 56, a powerful and mysterious artifact.",
+    "price": 5600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 57",
+    "description": "This is the description for Magic Item 57, a powerful and mysterious artifact.",
+    "price": 5700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 58",
+    "description": "This is the description for Magic Item 58, a powerful and mysterious artifact.",
+    "price": 5800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 59",
+    "description": "This is the description for Magic Item 59, a powerful and mysterious artifact.",
+    "price": 5900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 60",
+    "description": "This is the description for Magic Item 60, a powerful and mysterious artifact.",
+    "price": 6000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 61",
+    "description": "This is the description for Magic Item 61, a powerful and mysterious artifact.",
+    "price": 6100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 62",
+    "description": "This is the description for Magic Item 62, a powerful and mysterious artifact.",
+    "price": 6200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 63",
+    "description": "This is the description for Magic Item 63, a powerful and mysterious artifact.",
+    "price": 6300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 64",
+    "description": "This is the description for Magic Item 64, a powerful and mysterious artifact.",
+    "price": 6400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 65",
+    "description": "This is the description for Magic Item 65, a powerful and mysterious artifact.",
+    "price": 6500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 66",
+    "description": "This is the description for Magic Item 66, a powerful and mysterious artifact.",
+    "price": 6600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 67",
+    "description": "This is the description for Magic Item 67, a powerful and mysterious artifact.",
+    "price": 6700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 68",
+    "description": "This is the description for Magic Item 68, a powerful and mysterious artifact.",
+    "price": 6800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 69",
+    "description": "This is the description for Magic Item 69, a powerful and mysterious artifact.",
+    "price": 6900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 70",
+    "description": "This is the description for Magic Item 70, a powerful and mysterious artifact.",
+    "price": 7000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 71",
+    "description": "This is the description for Magic Item 71, a powerful and mysterious artifact.",
+    "price": 7100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 72",
+    "description": "This is the description for Magic Item 72, a powerful and mysterious artifact.",
+    "price": 7200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 73",
+    "description": "This is the description for Magic Item 73, a powerful and mysterious artifact.",
+    "price": 7300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 74",
+    "description": "This is the description for Magic Item 74, a powerful and mysterious artifact.",
+    "price": 7400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 75",
+    "description": "This is the description for Magic Item 75, a powerful and mysterious artifact.",
+    "price": 7500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 76",
+    "description": "This is the description for Magic Item 76, a powerful and mysterious artifact.",
+    "price": 7600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 77",
+    "description": "This is the description for Magic Item 77, a powerful and mysterious artifact.",
+    "price": 7700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 78",
+    "description": "This is the description for Magic Item 78, a powerful and mysterious artifact.",
+    "price": 7800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 79",
+    "description": "This is the description for Magic Item 79, a powerful and mysterious artifact.",
+    "price": 7900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 80",
+    "description": "This is the description for Magic Item 80, a powerful and mysterious artifact.",
+    "price": 8000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 81",
+    "description": "This is the description for Magic Item 81, a powerful and mysterious artifact.",
+    "price": 8100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 82",
+    "description": "This is the description for Magic Item 82, a powerful and mysterious artifact.",
+    "price": 8200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 83",
+    "description": "This is the description for Magic Item 83, a powerful and mysterious artifact.",
+    "price": 8300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 84",
+    "description": "This is the description for Magic Item 84, a powerful and mysterious artifact.",
+    "price": 8400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 85",
+    "description": "This is the description for Magic Item 85, a powerful and mysterious artifact.",
+    "price": 8500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 86",
+    "description": "This is the description for Magic Item 86, a powerful and mysterious artifact.",
+    "price": 8600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 87",
+    "description": "This is the description for Magic Item 87, a powerful and mysterious artifact.",
+    "price": 8700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 88",
+    "description": "This is the description for Magic Item 88, a powerful and mysterious artifact.",
+    "price": 8800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 89",
+    "description": "This is the description for Magic Item 89, a powerful and mysterious artifact.",
+    "price": 8900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 90",
+    "description": "This is the description for Magic Item 90, a powerful and mysterious artifact.",
+    "price": 9000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 91",
+    "description": "This is the description for Magic Item 91, a powerful and mysterious artifact.",
+    "price": 9100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 92",
+    "description": "This is the description for Magic Item 92, a powerful and mysterious artifact.",
+    "price": 9200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 93",
+    "description": "This is the description for Magic Item 93, a powerful and mysterious artifact.",
+    "price": 9300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 94",
+    "description": "This is the description for Magic Item 94, a powerful and mysterious artifact.",
+    "price": 9400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 95",
+    "description": "This is the description for Magic Item 95, a powerful and mysterious artifact.",
+    "price": 9500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 96",
+    "description": "This is the description for Magic Item 96, a powerful and mysterious artifact.",
+    "price": 9600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 97",
+    "description": "This is the description for Magic Item 97, a powerful and mysterious artifact.",
+    "price": 9700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 98",
+    "description": "This is the description for Magic Item 98, a powerful and mysterious artifact.",
+    "price": 9800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 99",
+    "description": "This is the description for Magic Item 99, a powerful and mysterious artifact.",
+    "price": 9900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 100",
+    "description": "This is the description for Magic Item 100, a powerful and mysterious artifact.",
+    "price": 10000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 101",
+    "description": "This is the description for Magic Item 101, a powerful and mysterious artifact.",
+    "price": 10100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 102",
+    "description": "This is the description for Magic Item 102, a powerful and mysterious artifact.",
+    "price": 10200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 103",
+    "description": "This is the description for Magic Item 103, a powerful and mysterious artifact.",
+    "price": 10300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 104",
+    "description": "This is the description for Magic Item 104, a powerful and mysterious artifact.",
+    "price": 10400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 105",
+    "description": "This is the description for Magic Item 105, a powerful and mysterious artifact.",
+    "price": 10500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 106",
+    "description": "This is the description for Magic Item 106, a powerful and mysterious artifact.",
+    "price": 10600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 107",
+    "description": "This is the description for Magic Item 107, a powerful and mysterious artifact.",
+    "price": 10700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 108",
+    "description": "This is the description for Magic Item 108, a powerful and mysterious artifact.",
+    "price": 10800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 109",
+    "description": "This is the description for Magic Item 109, a powerful and mysterious artifact.",
+    "price": 10900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 110",
+    "description": "This is the description for Magic Item 110, a powerful and mysterious artifact.",
+    "price": 11000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 111",
+    "description": "This is the description for Magic Item 111, a powerful and mysterious artifact.",
+    "price": 11100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 112",
+    "description": "This is the description for Magic Item 112, a powerful and mysterious artifact.",
+    "price": 11200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 113",
+    "description": "This is the description for Magic Item 113, a powerful and mysterious artifact.",
+    "price": 11300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 114",
+    "description": "This is the description for Magic Item 114, a powerful and mysterious artifact.",
+    "price": 11400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 115",
+    "description": "This is the description for Magic Item 115, a powerful and mysterious artifact.",
+    "price": 11500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 116",
+    "description": "This is the description for Magic Item 116, a powerful and mysterious artifact.",
+    "price": 11600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 117",
+    "description": "This is the description for Magic Item 117, a powerful and mysterious artifact.",
+    "price": 11700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 118",
+    "description": "This is the description for Magic Item 118, a powerful and mysterious artifact.",
+    "price": 11800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 119",
+    "description": "This is the description for Magic Item 119, a powerful and mysterious artifact.",
+    "price": 11900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 120",
+    "description": "This is the description for Magic Item 120, a powerful and mysterious artifact.",
+    "price": 12000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 121",
+    "description": "This is the description for Magic Item 121, a powerful and mysterious artifact.",
+    "price": 12100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 122",
+    "description": "This is the description for Magic Item 122, a powerful and mysterious artifact.",
+    "price": 12200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 123",
+    "description": "This is the description for Magic Item 123, a powerful and mysterious artifact.",
+    "price": 12300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 124",
+    "description": "This is the description for Magic Item 124, a powerful and mysterious artifact.",
+    "price": 12400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 125",
+    "description": "This is the description for Magic Item 125, a powerful and mysterious artifact.",
+    "price": 12500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 126",
+    "description": "This is the description for Magic Item 126, a powerful and mysterious artifact.",
+    "price": 12600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 127",
+    "description": "This is the description for Magic Item 127, a powerful and mysterious artifact.",
+    "price": 12700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 128",
+    "description": "This is the description for Magic Item 128, a powerful and mysterious artifact.",
+    "price": 12800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 129",
+    "description": "This is the description for Magic Item 129, a powerful and mysterious artifact.",
+    "price": 12900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 130",
+    "description": "This is the description for Magic Item 130, a powerful and mysterious artifact.",
+    "price": 13000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 131",
+    "description": "This is the description for Magic Item 131, a powerful and mysterious artifact.",
+    "price": 13100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 132",
+    "description": "This is the description for Magic Item 132, a powerful and mysterious artifact.",
+    "price": 13200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 133",
+    "description": "This is the description for Magic Item 133, a powerful and mysterious artifact.",
+    "price": 13300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 134",
+    "description": "This is the description for Magic Item 134, a powerful and mysterious artifact.",
+    "price": 13400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 135",
+    "description": "This is the description for Magic Item 135, a powerful and mysterious artifact.",
+    "price": 13500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 136",
+    "description": "This is the description for Magic Item 136, a powerful and mysterious artifact.",
+    "price": 13600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 137",
+    "description": "This is the description for Magic Item 137, a powerful and mysterious artifact.",
+    "price": 13700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 138",
+    "description": "This is the description for Magic Item 138, a powerful and mysterious artifact.",
+    "price": 13800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 139",
+    "description": "This is the description for Magic Item 139, a powerful and mysterious artifact.",
+    "price": 13900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 140",
+    "description": "This is the description for Magic Item 140, a powerful and mysterious artifact.",
+    "price": 14000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 141",
+    "description": "This is the description for Magic Item 141, a powerful and mysterious artifact.",
+    "price": 14100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 142",
+    "description": "This is the description for Magic Item 142, a powerful and mysterious artifact.",
+    "price": 14200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 143",
+    "description": "This is the description for Magic Item 143, a powerful and mysterious artifact.",
+    "price": 14300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 144",
+    "description": "This is the description for Magic Item 144, a powerful and mysterious artifact.",
+    "price": 14400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 145",
+    "description": "This is the description for Magic Item 145, a powerful and mysterious artifact.",
+    "price": 14500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 146",
+    "description": "This is the description for Magic Item 146, a powerful and mysterious artifact.",
+    "price": 14600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 147",
+    "description": "This is the description for Magic Item 147, a powerful and mysterious artifact.",
+    "price": 14700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 148",
+    "description": "This is the description for Magic Item 148, a powerful and mysterious artifact.",
+    "price": 14800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 149",
+    "description": "This is the description for Magic Item 149, a powerful and mysterious artifact.",
+    "price": 14900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 150",
+    "description": "This is the description for Magic Item 150, a powerful and mysterious artifact.",
+    "price": 15000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 151",
+    "description": "This is the description for Magic Item 151, a powerful and mysterious artifact.",
+    "price": 15100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 152",
+    "description": "This is the description for Magic Item 152, a powerful and mysterious artifact.",
+    "price": 15200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 153",
+    "description": "This is the description for Magic Item 153, a powerful and mysterious artifact.",
+    "price": 15300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 154",
+    "description": "This is the description for Magic Item 154, a powerful and mysterious artifact.",
+    "price": 15400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 155",
+    "description": "This is the description for Magic Item 155, a powerful and mysterious artifact.",
+    "price": 15500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 156",
+    "description": "This is the description for Magic Item 156, a powerful and mysterious artifact.",
+    "price": 15600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 157",
+    "description": "This is the description for Magic Item 157, a powerful and mysterious artifact.",
+    "price": 15700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 158",
+    "description": "This is the description for Magic Item 158, a powerful and mysterious artifact.",
+    "price": 15800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 159",
+    "description": "This is the description for Magic Item 159, a powerful and mysterious artifact.",
+    "price": 15900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 160",
+    "description": "This is the description for Magic Item 160, a powerful and mysterious artifact.",
+    "price": 16000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 161",
+    "description": "This is the description for Magic Item 161, a powerful and mysterious artifact.",
+    "price": 16100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 162",
+    "description": "This is the description for Magic Item 162, a powerful and mysterious artifact.",
+    "price": 16200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 163",
+    "description": "This is the description for Magic Item 163, a powerful and mysterious artifact.",
+    "price": 16300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 164",
+    "description": "This is the description for Magic Item 164, a powerful and mysterious artifact.",
+    "price": 16400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 165",
+    "description": "This is the description for Magic Item 165, a powerful and mysterious artifact.",
+    "price": 16500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 166",
+    "description": "This is the description for Magic Item 166, a powerful and mysterious artifact.",
+    "price": 16600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 167",
+    "description": "This is the description for Magic Item 167, a powerful and mysterious artifact.",
+    "price": 16700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 168",
+    "description": "This is the description for Magic Item 168, a powerful and mysterious artifact.",
+    "price": 16800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 169",
+    "description": "This is the description for Magic Item 169, a powerful and mysterious artifact.",
+    "price": 16900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 170",
+    "description": "This is the description for Magic Item 170, a powerful and mysterious artifact.",
+    "price": 17000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 171",
+    "description": "This is the description for Magic Item 171, a powerful and mysterious artifact.",
+    "price": 17100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 172",
+    "description": "This is the description for Magic Item 172, a powerful and mysterious artifact.",
+    "price": 17200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 173",
+    "description": "This is the description for Magic Item 173, a powerful and mysterious artifact.",
+    "price": 17300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 174",
+    "description": "This is the description for Magic Item 174, a powerful and mysterious artifact.",
+    "price": 17400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 175",
+    "description": "This is the description for Magic Item 175, a powerful and mysterious artifact.",
+    "price": 17500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 176",
+    "description": "This is the description for Magic Item 176, a powerful and mysterious artifact.",
+    "price": 17600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 177",
+    "description": "This is the description for Magic Item 177, a powerful and mysterious artifact.",
+    "price": 17700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 178",
+    "description": "This is the description for Magic Item 178, a powerful and mysterious artifact.",
+    "price": 17800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 179",
+    "description": "This is the description for Magic Item 179, a powerful and mysterious artifact.",
+    "price": 17900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 180",
+    "description": "This is the description for Magic Item 180, a powerful and mysterious artifact.",
+    "price": 18000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 181",
+    "description": "This is the description for Magic Item 181, a powerful and mysterious artifact.",
+    "price": 18100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 182",
+    "description": "This is the description for Magic Item 182, a powerful and mysterious artifact.",
+    "price": 18200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 183",
+    "description": "This is the description for Magic Item 183, a powerful and mysterious artifact.",
+    "price": 18300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 184",
+    "description": "This is the description for Magic Item 184, a powerful and mysterious artifact.",
+    "price": 18400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 185",
+    "description": "This is the description for Magic Item 185, a powerful and mysterious artifact.",
+    "price": 18500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 186",
+    "description": "This is the description for Magic Item 186, a powerful and mysterious artifact.",
+    "price": 18600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 187",
+    "description": "This is the description for Magic Item 187, a powerful and mysterious artifact.",
+    "price": 18700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 188",
+    "description": "This is the description for Magic Item 188, a powerful and mysterious artifact.",
+    "price": 18800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 189",
+    "description": "This is the description for Magic Item 189, a powerful and mysterious artifact.",
+    "price": 18900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 190",
+    "description": "This is the description for Magic Item 190, a powerful and mysterious artifact.",
+    "price": 19000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 191",
+    "description": "This is the description for Magic Item 191, a powerful and mysterious artifact.",
+    "price": 19100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 192",
+    "description": "This is the description for Magic Item 192, a powerful and mysterious artifact.",
+    "price": 19200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 193",
+    "description": "This is the description for Magic Item 193, a powerful and mysterious artifact.",
+    "price": 19300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 194",
+    "description": "This is the description for Magic Item 194, a powerful and mysterious artifact.",
+    "price": 19400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 195",
+    "description": "This is the description for Magic Item 195, a powerful and mysterious artifact.",
+    "price": 19500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 196",
+    "description": "This is the description for Magic Item 196, a powerful and mysterious artifact.",
+    "price": 19600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 197",
+    "description": "This is the description for Magic Item 197, a powerful and mysterious artifact.",
+    "price": 19700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 198",
+    "description": "This is the description for Magic Item 198, a powerful and mysterious artifact.",
+    "price": 19800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 199",
+    "description": "This is the description for Magic Item 199, a powerful and mysterious artifact.",
+    "price": 19900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 200",
+    "description": "This is the description for Magic Item 200, a powerful and mysterious artifact.",
+    "price": 20000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 201",
+    "description": "This is the description for Magic Item 201, a powerful and mysterious artifact.",
+    "price": 20100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 202",
+    "description": "This is the description for Magic Item 202, a powerful and mysterious artifact.",
+    "price": 20200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 203",
+    "description": "This is the description for Magic Item 203, a powerful and mysterious artifact.",
+    "price": 20300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 204",
+    "description": "This is the description for Magic Item 204, a powerful and mysterious artifact.",
+    "price": 20400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 205",
+    "description": "This is the description for Magic Item 205, a powerful and mysterious artifact.",
+    "price": 20500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 206",
+    "description": "This is the description for Magic Item 206, a powerful and mysterious artifact.",
+    "price": 20600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 207",
+    "description": "This is the description for Magic Item 207, a powerful and mysterious artifact.",
+    "price": 20700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 208",
+    "description": "This is the description for Magic Item 208, a powerful and mysterious artifact.",
+    "price": 20800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 209",
+    "description": "This is the description for Magic Item 209, a powerful and mysterious artifact.",
+    "price": 20900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 210",
+    "description": "This is the description for Magic Item 210, a powerful and mysterious artifact.",
+    "price": 21000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 211",
+    "description": "This is the description for Magic Item 211, a powerful and mysterious artifact.",
+    "price": 21100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 212",
+    "description": "This is the description for Magic Item 212, a powerful and mysterious artifact.",
+    "price": 21200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 213",
+    "description": "This is the description for Magic Item 213, a powerful and mysterious artifact.",
+    "price": 21300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 214",
+    "description": "This is the description for Magic Item 214, a powerful and mysterious artifact.",
+    "price": 21400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 215",
+    "description": "This is the description for Magic Item 215, a powerful and mysterious artifact.",
+    "price": 21500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 216",
+    "description": "This is the description for Magic Item 216, a powerful and mysterious artifact.",
+    "price": 21600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 217",
+    "description": "This is the description for Magic Item 217, a powerful and mysterious artifact.",
+    "price": 21700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 218",
+    "description": "This is the description for Magic Item 218, a powerful and mysterious artifact.",
+    "price": 21800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 219",
+    "description": "This is the description for Magic Item 219, a powerful and mysterious artifact.",
+    "price": 21900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 220",
+    "description": "This is the description for Magic Item 220, a powerful and mysterious artifact.",
+    "price": 22000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 221",
+    "description": "This is the description for Magic Item 221, a powerful and mysterious artifact.",
+    "price": 22100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 222",
+    "description": "This is the description for Magic Item 222, a powerful and mysterious artifact.",
+    "price": 22200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 223",
+    "description": "This is the description for Magic Item 223, a powerful and mysterious artifact.",
+    "price": 22300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 224",
+    "description": "This is the description for Magic Item 224, a powerful and mysterious artifact.",
+    "price": 22400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 225",
+    "description": "This is the description for Magic Item 225, a powerful and mysterious artifact.",
+    "price": 22500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 226",
+    "description": "This is the description for Magic Item 226, a powerful and mysterious artifact.",
+    "price": 22600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 227",
+    "description": "This is the description for Magic Item 227, a powerful and mysterious artifact.",
+    "price": 22700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 228",
+    "description": "This is the description for Magic Item 228, a powerful and mysterious artifact.",
+    "price": 22800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 229",
+    "description": "This is the description for Magic Item 229, a powerful and mysterious artifact.",
+    "price": 22900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 230",
+    "description": "This is the description for Magic Item 230, a powerful and mysterious artifact.",
+    "price": 23000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 231",
+    "description": "This is the description for Magic Item 231, a powerful and mysterious artifact.",
+    "price": 23100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 232",
+    "description": "This is the description for Magic Item 232, a powerful and mysterious artifact.",
+    "price": 23200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 233",
+    "description": "This is the description for Magic Item 233, a powerful and mysterious artifact.",
+    "price": 23300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 234",
+    "description": "This is the description for Magic Item 234, a powerful and mysterious artifact.",
+    "price": 23400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 235",
+    "description": "This is the description for Magic Item 235, a powerful and mysterious artifact.",
+    "price": 23500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 236",
+    "description": "This is the description for Magic Item 236, a powerful and mysterious artifact.",
+    "price": 23600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 237",
+    "description": "This is the description for Magic Item 237, a powerful and mysterious artifact.",
+    "price": 23700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 238",
+    "description": "This is the description for Magic Item 238, a powerful and mysterious artifact.",
+    "price": 23800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 239",
+    "description": "This is the description for Magic Item 239, a powerful and mysterious artifact.",
+    "price": 23900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 240",
+    "description": "This is the description for Magic Item 240, a powerful and mysterious artifact.",
+    "price": 24000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 241",
+    "description": "This is the description for Magic Item 241, a powerful and mysterious artifact.",
+    "price": 24100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 242",
+    "description": "This is the description for Magic Item 242, a powerful and mysterious artifact.",
+    "price": 24200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 243",
+    "description": "This is the description for Magic Item 243, a powerful and mysterious artifact.",
+    "price": 24300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 244",
+    "description": "This is the description for Magic Item 244, a powerful and mysterious artifact.",
+    "price": 24400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 245",
+    "description": "This is the description for Magic Item 245, a powerful and mysterious artifact.",
+    "price": 24500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 246",
+    "description": "This is the description for Magic Item 246, a powerful and mysterious artifact.",
+    "price": 24600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 247",
+    "description": "This is the description for Magic Item 247, a powerful and mysterious artifact.",
+    "price": 24700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 248",
+    "description": "This is the description for Magic Item 248, a powerful and mysterious artifact.",
+    "price": 24800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 249",
+    "description": "This is the description for Magic Item 249, a powerful and mysterious artifact.",
+    "price": 24900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 250",
+    "description": "This is the description for Magic Item 250, a powerful and mysterious artifact.",
+    "price": 25000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 251",
+    "description": "This is the description for Magic Item 251, a powerful and mysterious artifact.",
+    "price": 25100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 252",
+    "description": "This is the description for Magic Item 252, a powerful and mysterious artifact.",
+    "price": 25200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 253",
+    "description": "This is the description for Magic Item 253, a powerful and mysterious artifact.",
+    "price": 25300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 254",
+    "description": "This is the description for Magic Item 254, a powerful and mysterious artifact.",
+    "price": 25400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 255",
+    "description": "This is the description for Magic Item 255, a powerful and mysterious artifact.",
+    "price": 25500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 256",
+    "description": "This is the description for Magic Item 256, a powerful and mysterious artifact.",
+    "price": 25600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 257",
+    "description": "This is the description for Magic Item 257, a powerful and mysterious artifact.",
+    "price": 25700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 258",
+    "description": "This is the description for Magic Item 258, a powerful and mysterious artifact.",
+    "price": 25800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 259",
+    "description": "This is the description for Magic Item 259, a powerful and mysterious artifact.",
+    "price": 25900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 260",
+    "description": "This is the description for Magic Item 260, a powerful and mysterious artifact.",
+    "price": 26000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 261",
+    "description": "This is the description for Magic Item 261, a powerful and mysterious artifact.",
+    "price": 26100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 262",
+    "description": "This is the description for Magic Item 262, a powerful and mysterious artifact.",
+    "price": 26200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 263",
+    "description": "This is the description for Magic Item 263, a powerful and mysterious artifact.",
+    "price": 26300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 264",
+    "description": "This is the description for Magic Item 264, a powerful and mysterious artifact.",
+    "price": 26400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 265",
+    "description": "This is the description for Magic Item 265, a powerful and mysterious artifact.",
+    "price": 26500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 266",
+    "description": "This is the description for Magic Item 266, a powerful and mysterious artifact.",
+    "price": 26600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 267",
+    "description": "This is the description for Magic Item 267, a powerful and mysterious artifact.",
+    "price": 26700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 268",
+    "description": "This is the description for Magic Item 268, a powerful and mysterious artifact.",
+    "price": 26800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 269",
+    "description": "This is the description for Magic Item 269, a powerful and mysterious artifact.",
+    "price": 26900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 270",
+    "description": "This is the description for Magic Item 270, a powerful and mysterious artifact.",
+    "price": 27000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 271",
+    "description": "This is the description for Magic Item 271, a powerful and mysterious artifact.",
+    "price": 27100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 272",
+    "description": "This is the description for Magic Item 272, a powerful and mysterious artifact.",
+    "price": 27200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 273",
+    "description": "This is the description for Magic Item 273, a powerful and mysterious artifact.",
+    "price": 27300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 274",
+    "description": "This is the description for Magic Item 274, a powerful and mysterious artifact.",
+    "price": 27400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 275",
+    "description": "This is the description for Magic Item 275, a powerful and mysterious artifact.",
+    "price": 27500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 276",
+    "description": "This is the description for Magic Item 276, a powerful and mysterious artifact.",
+    "price": 27600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 277",
+    "description": "This is the description for Magic Item 277, a powerful and mysterious artifact.",
+    "price": 27700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 278",
+    "description": "This is the description for Magic Item 278, a powerful and mysterious artifact.",
+    "price": 27800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 279",
+    "description": "This is the description for Magic Item 279, a powerful and mysterious artifact.",
+    "price": 27900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 280",
+    "description": "This is the description for Magic Item 280, a powerful and mysterious artifact.",
+    "price": 28000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 281",
+    "description": "This is the description for Magic Item 281, a powerful and mysterious artifact.",
+    "price": 28100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 282",
+    "description": "This is the description for Magic Item 282, a powerful and mysterious artifact.",
+    "price": 28200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 283",
+    "description": "This is the description for Magic Item 283, a powerful and mysterious artifact.",
+    "price": 28300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 284",
+    "description": "This is the description for Magic Item 284, a powerful and mysterious artifact.",
+    "price": 28400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 285",
+    "description": "This is the description for Magic Item 285, a powerful and mysterious artifact.",
+    "price": 28500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 286",
+    "description": "This is the description for Magic Item 286, a powerful and mysterious artifact.",
+    "price": 28600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 287",
+    "description": "This is the description for Magic Item 287, a powerful and mysterious artifact.",
+    "price": 28700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 288",
+    "description": "This is the description for Magic Item 288, a powerful and mysterious artifact.",
+    "price": 28800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 289",
+    "description": "This is the description for Magic Item 289, a powerful and mysterious artifact.",
+    "price": 28900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 290",
+    "description": "This is the description for Magic Item 290, a powerful and mysterious artifact.",
+    "price": 29000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 291",
+    "description": "This is the description for Magic Item 291, a powerful and mysterious artifact.",
+    "price": 29100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 292",
+    "description": "This is the description for Magic Item 292, a powerful and mysterious artifact.",
+    "price": 29200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 293",
+    "description": "This is the description for Magic Item 293, a powerful and mysterious artifact.",
+    "price": 29300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 294",
+    "description": "This is the description for Magic Item 294, a powerful and mysterious artifact.",
+    "price": 29400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 295",
+    "description": "This is the description for Magic Item 295, a powerful and mysterious artifact.",
+    "price": 29500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 296",
+    "description": "This is the description for Magic Item 296, a powerful and mysterious artifact.",
+    "price": 29600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 297",
+    "description": "This is the description for Magic Item 297, a powerful and mysterious artifact.",
+    "price": 29700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 298",
+    "description": "This is the description for Magic Item 298, a powerful and mysterious artifact.",
+    "price": 29800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 299",
+    "description": "This is the description for Magic Item 299, a powerful and mysterious artifact.",
+    "price": 29900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 300",
+    "description": "This is the description for Magic Item 300, a powerful and mysterious artifact.",
+    "price": 30000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 301",
+    "description": "This is the description for Magic Item 301, a powerful and mysterious artifact.",
+    "price": 30100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 302",
+    "description": "This is the description for Magic Item 302, a powerful and mysterious artifact.",
+    "price": 30200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 303",
+    "description": "This is the description for Magic Item 303, a powerful and mysterious artifact.",
+    "price": 30300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 304",
+    "description": "This is the description for Magic Item 304, a powerful and mysterious artifact.",
+    "price": 30400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 305",
+    "description": "This is the description for Magic Item 305, a powerful and mysterious artifact.",
+    "price": 30500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 306",
+    "description": "This is the description for Magic Item 306, a powerful and mysterious artifact.",
+    "price": 30600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 307",
+    "description": "This is the description for Magic Item 307, a powerful and mysterious artifact.",
+    "price": 30700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 308",
+    "description": "This is the description for Magic Item 308, a powerful and mysterious artifact.",
+    "price": 30800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 309",
+    "description": "This is the description for Magic Item 309, a powerful and mysterious artifact.",
+    "price": 30900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 310",
+    "description": "This is the description for Magic Item 310, a powerful and mysterious artifact.",
+    "price": 31000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 311",
+    "description": "This is the description for Magic Item 311, a powerful and mysterious artifact.",
+    "price": 31100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 312",
+    "description": "This is the description for Magic Item 312, a powerful and mysterious artifact.",
+    "price": 31200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 313",
+    "description": "This is the description for Magic Item 313, a powerful and mysterious artifact.",
+    "price": 31300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 314",
+    "description": "This is the description for Magic Item 314, a powerful and mysterious artifact.",
+    "price": 31400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 315",
+    "description": "This is the description for Magic Item 315, a powerful and mysterious artifact.",
+    "price": 31500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 316",
+    "description": "This is the description for Magic Item 316, a powerful and mysterious artifact.",
+    "price": 31600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 317",
+    "description": "This is the description for Magic Item 317, a powerful and mysterious artifact.",
+    "price": 31700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 318",
+    "description": "This is the description for Magic Item 318, a powerful and mysterious artifact.",
+    "price": 31800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 319",
+    "description": "This is the description for Magic Item 319, a powerful and mysterious artifact.",
+    "price": 31900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 320",
+    "description": "This is the description for Magic Item 320, a powerful and mysterious artifact.",
+    "price": 32000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 321",
+    "description": "This is the description for Magic Item 321, a powerful and mysterious artifact.",
+    "price": 32100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 322",
+    "description": "This is the description for Magic Item 322, a powerful and mysterious artifact.",
+    "price": 32200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 323",
+    "description": "This is the description for Magic Item 323, a powerful and mysterious artifact.",
+    "price": 32300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 324",
+    "description": "This is the description for Magic Item 324, a powerful and mysterious artifact.",
+    "price": 32400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 325",
+    "description": "This is the description for Magic Item 325, a powerful and mysterious artifact.",
+    "price": 32500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 326",
+    "description": "This is the description for Magic Item 326, a powerful and mysterious artifact.",
+    "price": 32600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 327",
+    "description": "This is the description for Magic Item 327, a powerful and mysterious artifact.",
+    "price": 32700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 328",
+    "description": "This is the description for Magic Item 328, a powerful and mysterious artifact.",
+    "price": 32800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 329",
+    "description": "This is the description for Magic Item 329, a powerful and mysterious artifact.",
+    "price": 32900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 330",
+    "description": "This is the description for Magic Item 330, a powerful and mysterious artifact.",
+    "price": 33000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 331",
+    "description": "This is the description for Magic Item 331, a powerful and mysterious artifact.",
+    "price": 33100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 332",
+    "description": "This is the description for Magic Item 332, a powerful and mysterious artifact.",
+    "price": 33200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 333",
+    "description": "This is the description for Magic Item 333, a powerful and mysterious artifact.",
+    "price": 33300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 334",
+    "description": "This is the description for Magic Item 334, a powerful and mysterious artifact.",
+    "price": 33400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 335",
+    "description": "This is the description for Magic Item 335, a powerful and mysterious artifact.",
+    "price": 33500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 336",
+    "description": "This is the description for Magic Item 336, a powerful and mysterious artifact.",
+    "price": 33600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 337",
+    "description": "This is the description for Magic Item 337, a powerful and mysterious artifact.",
+    "price": 33700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 338",
+    "description": "This is the description for Magic Item 338, a powerful and mysterious artifact.",
+    "price": 33800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 339",
+    "description": "This is the description for Magic Item 339, a powerful and mysterious artifact.",
+    "price": 33900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 340",
+    "description": "This is the description for Magic Item 340, a powerful and mysterious artifact.",
+    "price": 34000,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 341",
+    "description": "This is the description for Magic Item 341, a powerful and mysterious artifact.",
+    "price": 34100,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 342",
+    "description": "This is the description for Magic Item 342, a powerful and mysterious artifact.",
+    "price": 34200,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 343",
+    "description": "This is the description for Magic Item 343, a powerful and mysterious artifact.",
+    "price": 34300,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 344",
+    "description": "This is the description for Magic Item 344, a powerful and mysterious artifact.",
+    "price": 34400,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 345",
+    "description": "This is the description for Magic Item 345, a powerful and mysterious artifact.",
+    "price": 34500,
+    "rarity": "Common"
+  },
+  {
+    "name": "Magic Item 346",
+    "description": "This is the description for Magic Item 346, a powerful and mysterious artifact.",
+    "price": 34600,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Magic Item 347",
+    "description": "This is the description for Magic Item 347, a powerful and mysterious artifact.",
+    "price": 34700,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Magic Item 348",
+    "description": "This is the description for Magic Item 348, a powerful and mysterious artifact.",
+    "price": 34800,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Magic Item 349",
+    "description": "This is the description for Magic Item 349, a powerful and mysterious artifact.",
+    "price": 34900,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Magic Item 350",
+    "description": "This is the description for Magic Item 350, a powerful and mysterious artifact.",
+    "price": 35000,
+    "rarity": "Common"
+  }
+]

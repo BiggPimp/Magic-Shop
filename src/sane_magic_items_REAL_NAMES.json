@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "Helm of Telepathy",
+    "description": "A powerful magical item known as the Helm of Telepathy.",
+    "price": 38950,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Cape of the Mountebank",
+    "description": "A powerful magical item known as the Cape of the Mountebank.",
+    "price": 7630,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Ring of Evasion",
+    "description": "A powerful magical item known as the Ring of Evasion.",
+    "price": 4451,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "A powerful magical item known as the Necklace of Fireballs.",
+    "price": 20359,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "A powerful magical item known as the Bag of Holding.",
+    "price": 43113,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A powerful magical item known as the Broom of Flying.",
+    "price": 12071,
+    "rarity": "Common"
+  },
+  {
+    "name": "Rod of the Pact Keeper",
+    "description": "A powerful magical item known as the Rod of the Pact Keeper.",
+    "price": 41290,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Ring of Protection",
+    "description": "A powerful magical item known as the Ring of Protection.",
+    "price": 30120,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Protection (17)",
+    "description": "A powerful magical item known as the Ring of Protection (17).",
+    "price": 28186,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "A powerful magical item known as the Flame Tongue.",
+    "price": 8686,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Staff of the Magi",
+    "description": "A powerful magical item known as the Staff of the Magi.",
+    "price": 4221,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Evasion (65)",
+    "description": "A powerful magical item known as the Ring of Evasion (65).",
+    "price": 28389,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Ring of Spell Storing",
+    "description": "A powerful magical item known as the Ring of Spell Storing.",
+    "price": 12415,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Helm of Telepathy (29)",
+    "description": "A powerful magical item known as the Helm of Telepathy (29).",
+    "price": 22039,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Cape of the Mountebank (21)",
+    "description": "A powerful magical item known as the Cape of the Mountebank (21).",
+    "price": 48589,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Flame Tongue (10)",
+    "description": "A powerful magical item known as the Flame Tongue (10).",
+    "price": 32783,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Protection (80)",
+    "description": "A powerful magical item known as the Ring of Protection (80).",
+    "price": 29548,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Sphere of Annihilation",
+    "description": "A powerful magical item known as the Sphere of Annihilation.",
+    "price": 34359,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "A powerful magical item known as the Deck of Illusions.",
+    "price": 15419,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Helm of Telepathy (60)",
+    "description": "A powerful magical item known as the Helm of Telepathy (60).",
+    "price": 36934,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Helm of Telepathy (2)",
+    "description": "A powerful magical item known as the Helm of Telepathy (2).",
+    "price": 29192,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Horn of Valhalla",
+    "description": "A powerful magical item known as the Horn of Valhalla.",
+    "price": 39098,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Horn of Valhalla (60)",
+    "description": "A powerful magical item known as the Horn of Valhalla (60).",
+    "price": 13883,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Sphere of Annihilation (80)",
+    "description": "A powerful magical item known as the Sphere of Annihilation (80).",
+    "price": 43258,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Ioun Stone of Insight",
+    "description": "A powerful magical item known as the Ioun Stone of Insight.",
+    "price": 38956,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Ioun Stone of Insight (94)",
+    "description": "A powerful magical item known as the Ioun Stone of Insight (94).",
+    "price": 45016,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Boots of Speed",
+    "description": "A powerful magical item known as the Boots of Speed.",
+    "price": 37464,
+    "rarity": "Common"
+  },
+  {
+    "name": "Boots of Speed (43)",
+    "description": "A powerful magical item known as the Boots of Speed (43).",
+    "price": 45026,
+    "rarity": "Common"
+  },
+  {
+    "name": "Sphere of Annihilation (3)",
+    "description": "A powerful magical item known as the Sphere of Annihilation (3).",
+    "price": 30225,
+    "rarity": "Common"
+  },
+  {
+    "name": "Ring of Spell Storing (92)",
+    "description": "A powerful magical item known as the Ring of Spell Storing (92).",
+    "price": 7976,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Rod of the Pact Keeper (57)",
+    "description": "A powerful magical item known as the Rod of the Pact Keeper (57).",
+    "price": 46701,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Tome of Clear Thought",
+    "description": "A powerful magical item known as the Tome of Clear Thought.",
+    "price": 46198,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Sphere of Annihilation (35)",
+    "description": "A powerful magical item known as the Sphere of Annihilation (35).",
+    "price": 9072,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Ring of Feather Falling",
+    "description": "A powerful magical item known as the Ring of Feather Falling.",
+    "price": 37385,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Flame Tongue (89)",
+    "description": "A powerful magical item known as the Flame Tongue (89).",
+    "price": 24958,
+    "rarity": "Common"
+  },
+  {
+    "name": "Staff of the Magi (18)",
+    "description": "A powerful magical item known as the Staff of the Magi (18).",
+    "price": 49082,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Manual of Bodily Health",
+    "description": "A powerful magical item known as the Manual of Bodily Health.",
+    "price": 12334,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Crystal Ball",
+    "description": "A powerful magical item known as the Crystal Ball.",
+    "price": 2464,
+    "rarity": "Common"
+  },
+  {
+    "name": "Robe of the Archmagi",
+    "description": "A powerful magical item known as the Robe of the Archmagi.",
+    "price": 16669,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "A powerful magical item known as the Cloak of Elvenkind.",
+    "price": 8776,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Staff of the Magi (91)",
+    "description": "A powerful magical item known as the Staff of the Magi (91).",
+    "price": 12725,
+    "rarity": "Common"
+  },
+  {
+    "name": "Ioun Stone of Insight (99)",
+    "description": "A powerful magical item known as the Ioun Stone of Insight (99).",
+    "price": 9188,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Ring of Protection (60)",
+    "description": "A powerful magical item known as the Ring of Protection (60).",
+    "price": 49129,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Manual of Bodily Health (49)",
+    "description": "A powerful magical item known as the Manual of Bodily Health (49).",
+    "price": 41171,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Bag of Holding (82)",
+    "description": "A powerful magical item known as the Bag of Holding (82).",
+    "price": 31804,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Rod of the Pact Keeper (23)",
+    "description": "A powerful magical item known as the Rod of the Pact Keeper (23).",
+    "price": 15065,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Sphere of Annihilation (6)",
+    "description": "A powerful magical item known as the Sphere of Annihilation (6).",
+    "price": 8868,
+    "rarity": "Common"
+  },
+  {
+    "name": "Gloves of Thievery",
+    "description": "A powerful magical item known as the Gloves of Thievery.",
+    "price": 43353,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cape of the Mountebank (17)",
+    "description": "A powerful magical item known as the Cape of the Mountebank (17).",
+    "price": 39058,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Ioun Stone of Insight (26)",
+    "description": "A powerful magical item known as the Ioun Stone of Insight (26).",
+    "price": 32353,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Staff of the Magi (29)",
+    "description": "A powerful magical item known as the Staff of the Magi (29).",
+    "price": 40362,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Wand of Fireballs",
+    "description": "A powerful magical item known as the Wand of Fireballs.",
+    "price": 9625,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Broom of Flying (22)",
+    "description": "A powerful magical item known as the Broom of Flying (22).",
+    "price": 18952,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Bracers of Defense",
+    "description": "A powerful magical item known as the Bracers of Defense.",
+    "price": 42309,
+    "rarity": "Common"
+  },
+  {
+    "name": "Ring of Feather Falling (15)",
+    "description": "A powerful magical item known as the Ring of Feather Falling (15).",
+    "price": 16147,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Deck of Illusions (23)",
+    "description": "A powerful magical item known as the Deck of Illusions (23).",
+    "price": 37172,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Amulet of Health",
+    "description": "A powerful magical item known as the Amulet of Health.",
+    "price": 32937,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Ioun Stone of Insight (28)",
+    "description": "A powerful magical item known as the Ioun Stone of Insight (28).",
+    "price": 2301,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Rod of the Pact Keeper (27)",
+    "description": "A powerful magical item known as the Rod of the Pact Keeper (27).",
+    "price": 21643,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Gloves of Thievery (19)",
+    "description": "A powerful magical item known as the Gloves of Thievery (19).",
+    "price": 19870,
+    "rarity": "Common"
+  },
+  {
+    "name": "Robe of the Archmagi (28)",
+    "description": "A powerful magical item known as the Robe of the Archmagi (28).",
+    "price": 35043,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ioun Stone of Insight (30)",
+    "description": "A powerful magical item known as the Ioun Stone of Insight (30).",
+    "price": 42830,
+    "rarity": "Common"
+  },
+  {
+    "name": "Broom of Flying (100)",
+    "description": "A powerful magical item known as the Broom of Flying (100).",
+    "price": 9646,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ioun Stone of Insight (21)",
+    "description": "A powerful magical item known as the Ioun Stone of Insight (21).",
+    "price": 14682,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Crystal Ball (66)",
+    "description": "A powerful magical item known as the Crystal Ball (66).",
+    "price": 18293,
+    "rarity": "Common"
+  },
+  {
+    "name": "Staff of the Magi (91)",
+    "description": "A powerful magical item known as the Staff of the Magi (91).",
+    "price": 28944,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ring of Feather Falling (19)",
+    "description": "A powerful magical item known as the Ring of Feather Falling (19).",
+    "price": 42658,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ring of Spell Storing (38)",
+    "description": "A powerful magical item known as the Ring of Spell Storing (38).",
+    "price": 47915,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Bag of Holding (67)",
+    "description": "A powerful magical item known as the Bag of Holding (67).",
+    "price": 13953,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "A powerful magical item known as the Potion of Healing.",
+    "price": 35372,
+    "rarity": "Common"
+  },
+  {
+    "name": "Deck of Illusions (71)",
+    "description": "A powerful magical item known as the Deck of Illusions (71).",
+    "price": 22145,
+    "rarity": "Common"
+  },
+  {
+    "name": "Crystal Ball (37)",
+    "description": "A powerful magical item known as the Crystal Ball (37).",
+    "price": 45845,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Bag of Holding (69)",
+    "description": "A powerful magical item known as the Bag of Holding (69).",
+    "price": 17126,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Crystal Ball (86)",
+    "description": "A powerful magical item known as the Crystal Ball (86).",
+    "price": 17983,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Tome of Clear Thought (13)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (13).",
+    "price": 35826,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Crystal Ball (52)",
+    "description": "A powerful magical item known as the Crystal Ball (52).",
+    "price": 2600,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Manual of Bodily Health (6)",
+    "description": "A powerful magical item known as the Manual of Bodily Health (6).",
+    "price": 25679,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Horn of Valhalla (66)",
+    "description": "A powerful magical item known as the Horn of Valhalla (66).",
+    "price": 38844,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "A powerful magical item known as the Pearl of Power.",
+    "price": 19835,
+    "rarity": "Common"
+  },
+  {
+    "name": "Necklace of Fireballs (35)",
+    "description": "A powerful magical item known as the Necklace of Fireballs (35).",
+    "price": 4197,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Ioun Stone of Insight (49)",
+    "description": "A powerful magical item known as the Ioun Stone of Insight (49).",
+    "price": 4378,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Boots of Speed (9)",
+    "description": "A powerful magical item known as the Boots of Speed (9).",
+    "price": 39006,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Tome of Clear Thought (56)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (56).",
+    "price": 34109,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Ring of Evasion (61)",
+    "description": "A powerful magical item known as the Ring of Evasion (61).",
+    "price": 3272,
+    "rarity": "Common"
+  },
+  {
+    "name": "Helm of Telepathy (27)",
+    "description": "A powerful magical item known as the Helm of Telepathy (27).",
+    "price": 8311,
+    "rarity": "Common"
+  },
+  {
+    "name": "Carpet of Flying",
+    "description": "A powerful magical item known as the Carpet of Flying.",
+    "price": 21393,
+    "rarity": "Common"
+  },
+  {
+    "name": "Potion of Healing (41)",
+    "description": "A powerful magical item known as the Potion of Healing (41).",
+    "price": 38769,
+    "rarity": "Common"
+  },
+  {
+    "name": "Carpet of Flying (82)",
+    "description": "A powerful magical item known as the Carpet of Flying (82).",
+    "price": 36872,
+    "rarity": "Common"
+  },
+  {
+    "name": "Carpet of Flying (52)",
+    "description": "A powerful magical item known as the Carpet of Flying (52).",
+    "price": 14531,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Potion of Healing (49)",
+    "description": "A powerful magical item known as the Potion of Healing (49).",
+    "price": 27974,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Helm of Telepathy (49)",
+    "description": "A powerful magical item known as the Helm of Telepathy (49).",
+    "price": 7973,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Amulet of Health (83)",
+    "description": "A powerful magical item known as the Amulet of Health (83).",
+    "price": 31851,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Staff of the Magi (19)",
+    "description": "A powerful magical item known as the Staff of the Magi (19).",
+    "price": 31725,
+    "rarity": "Common"
+  },
+  {
+    "name": "Ring of Feather Falling (5)",
+    "description": "A powerful magical item known as the Ring of Feather Falling (5).",
+    "price": 23832,
+    "rarity": "Common"
+  },
+  {
+    "name": "Ioun Stone of Insight (81)",
+    "description": "A powerful magical item known as the Ioun Stone of Insight (81).",
+    "price": 44806,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Flame Tongue (78)",
+    "description": "A powerful magical item known as the Flame Tongue (78).",
+    "price": 36142,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Tome of Clear Thought (54)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (54).",
+    "price": 47748,
+    "rarity": "Common"
+  },
+  {
+    "name": "Robe of the Archmagi (56)",
+    "description": "A powerful magical item known as the Robe of the Archmagi (56).",
+    "price": 16136,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Amulet of Health (1)",
+    "description": "A powerful magical item known as the Amulet of Health (1).",
+    "price": 1417,
+    "rarity": "Common"
+  },
+  {
+    "name": "Helm of Telepathy (20)",
+    "description": "A powerful magical item known as the Helm of Telepathy (20).",
+    "price": 48084,
+    "rarity": "Common"
+  },
+  {
+    "name": "Ring of Feather Falling (3)",
+    "description": "A powerful magical item known as the Ring of Feather Falling (3).",
+    "price": 32652,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bracers of Defense (1)",
+    "description": "A powerful magical item known as the Bracers of Defense (1).",
+    "price": 44625,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Flame Tongue (4)",
+    "description": "A powerful magical item known as the Flame Tongue (4).",
+    "price": 49592,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Sphere of Annihilation (53)",
+    "description": "A powerful magical item known as the Sphere of Annihilation (53).",
+    "price": 19969,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Rod of the Pact Keeper (36)",
+    "description": "A powerful magical item known as the Rod of the Pact Keeper (36).",
+    "price": 8007,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Ioun Stone of Insight (86)",
+    "description": "A powerful magical item known as the Ioun Stone of Insight (86).",
+    "price": 36469,
+    "rarity": "Common"
+  },
+  {
+    "name": "Cape of the Mountebank (81)",
+    "description": "A powerful magical item known as the Cape of the Mountebank (81).",
+    "price": 26429,
+    "rarity": "Common"
+  },
+  {
+    "name": "Tome of Clear Thought (87)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (87).",
+    "price": 12897,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Cloak of Elvenkind (83)",
+    "description": "A powerful magical item known as the Cloak of Elvenkind (83).",
+    "price": 24831,
+    "rarity": "Common"
+  },
+  {
+    "name": "Amulet of Health (29)",
+    "description": "A powerful magical item known as the Amulet of Health (29).",
+    "price": 27982,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Ioun Stone of Insight (85)",
+    "description": "A powerful magical item known as the Ioun Stone of Insight (85).",
+    "price": 46867,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Rod of the Pact Keeper (39)",
+    "description": "A powerful magical item known as the Rod of the Pact Keeper (39).",
+    "price": 30458,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Rod of the Pact Keeper (45)",
+    "description": "A powerful magical item known as the Rod of the Pact Keeper (45).",
+    "price": 31132,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Boots of Speed (75)",
+    "description": "A powerful magical item known as the Boots of Speed (75).",
+    "price": 24924,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Tome of Clear Thought (33)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (33).",
+    "price": 42172,
+    "rarity": "Common"
+  },
+  {
+    "name": "Ring of Protection (87)",
+    "description": "A powerful magical item known as the Ring of Protection (87).",
+    "price": 12967,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Horn of Valhalla (44)",
+    "description": "A powerful magical item known as the Horn of Valhalla (44).",
+    "price": 313,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Crystal Ball (51)",
+    "description": "A powerful magical item known as the Crystal Ball (51).",
+    "price": 8198,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Fireballs (89)",
+    "description": "A powerful magical item known as the Wand of Fireballs (89).",
+    "price": 38952,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ring of Spell Storing (38)",
+    "description": "A powerful magical item known as the Ring of Spell Storing (38).",
+    "price": 41156,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ring of Protection (96)",
+    "description": "A powerful magical item known as the Ring of Protection (96).",
+    "price": 20432,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Horn of Valhalla (49)",
+    "description": "A powerful magical item known as the Horn of Valhalla (49).",
+    "price": 5396,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Robe of the Archmagi (89)",
+    "description": "A powerful magical item known as the Robe of the Archmagi (89).",
+    "price": 35294,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Crystal Ball (10)",
+    "description": "A powerful magical item known as the Crystal Ball (10).",
+    "price": 5041,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions (68)",
+    "description": "A powerful magical item known as the Deck of Illusions (68).",
+    "price": 37600,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Gloves of Thievery (12)",
+    "description": "A powerful magical item known as the Gloves of Thievery (12).",
+    "price": 19102,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Ring of Spell Storing (26)",
+    "description": "A powerful magical item known as the Ring of Spell Storing (26).",
+    "price": 19312,
+    "rarity": "Common"
+  },
+  {
+    "name": "Manual of Bodily Health (90)",
+    "description": "A powerful magical item known as the Manual of Bodily Health (90).",
+    "price": 7749,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Necklace of Fireballs (30)",
+    "description": "A powerful magical item known as the Necklace of Fireballs (30).",
+    "price": 11747,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Crystal Ball (90)",
+    "description": "A powerful magical item known as the Crystal Ball (90).",
+    "price": 10988,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Helm of Telepathy (44)",
+    "description": "A powerful magical item known as the Helm of Telepathy (44).",
+    "price": 21774,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Flame Tongue (32)",
+    "description": "A powerful magical item known as the Flame Tongue (32).",
+    "price": 1199,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Gloves of Thievery (70)",
+    "description": "A powerful magical item known as the Gloves of Thievery (70).",
+    "price": 11953,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Fireballs (52)",
+    "description": "A powerful magical item known as the Wand of Fireballs (52).",
+    "price": 3499,
+    "rarity": "Common"
+  },
+  {
+    "name": "Crystal Ball (66)",
+    "description": "A powerful magical item known as the Crystal Ball (66).",
+    "price": 7225,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Boots of Speed (37)",
+    "description": "A powerful magical item known as the Boots of Speed (37).",
+    "price": 40665,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Potion of Healing (86)",
+    "description": "A powerful magical item known as the Potion of Healing (86).",
+    "price": 48417,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Rod of the Pact Keeper (25)",
+    "description": "A powerful magical item known as the Rod of the Pact Keeper (25).",
+    "price": 14131,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Robe of the Archmagi (12)",
+    "description": "A powerful magical item known as the Robe of the Archmagi (12).",
+    "price": 12001,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding (55)",
+    "description": "A powerful magical item known as the Bag of Holding (55).",
+    "price": 25738,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Potion of Healing (98)",
+    "description": "A powerful magical item known as the Potion of Healing (98).",
+    "price": 27375,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Cape of the Mountebank (78)",
+    "description": "A powerful magical item known as the Cape of the Mountebank (78).",
+    "price": 27600,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Bracers of Defense (86)",
+    "description": "A powerful magical item known as the Bracers of Defense (86).",
+    "price": 44346,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Manual of Bodily Health (63)",
+    "description": "A powerful magical item known as the Manual of Bodily Health (63).",
+    "price": 9592,
+    "rarity": "Common"
+  },
+  {
+    "name": "Helm of Telepathy (97)",
+    "description": "A powerful magical item known as the Helm of Telepathy (97).",
+    "price": 15528,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "A powerful magical item known as the Wand of Magic Missiles.",
+    "price": 48282,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Crystal Ball (33)",
+    "description": "A powerful magical item known as the Crystal Ball (33).",
+    "price": 30263,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ring of Feather Falling (69)",
+    "description": "A powerful magical item known as the Ring of Feather Falling (69).",
+    "price": 29821,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Tome of Clear Thought (28)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (28).",
+    "price": 38923,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Gloves of Thievery (55)",
+    "description": "A powerful magical item known as the Gloves of Thievery (55).",
+    "price": 44431,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cape of the Mountebank (5)",
+    "description": "A powerful magical item known as the Cape of the Mountebank (5).",
+    "price": 501,
+    "rarity": "Common"
+  },
+  {
+    "name": "Sphere of Annihilation (85)",
+    "description": "A powerful magical item known as the Sphere of Annihilation (85).",
+    "price": 37418,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Carpet of Flying (74)",
+    "description": "A powerful magical item known as the Carpet of Flying (74).",
+    "price": 43107,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Horn of Valhalla (77)",
+    "description": "A powerful magical item known as the Horn of Valhalla (77).",
+    "price": 18993,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Wand of Fireballs (7)",
+    "description": "A powerful magical item known as the Wand of Fireballs (7).",
+    "price": 28719,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Deck of Illusions (99)",
+    "description": "A powerful magical item known as the Deck of Illusions (99).",
+    "price": 21559,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Horn of Valhalla (12)",
+    "description": "A powerful magical item known as the Horn of Valhalla (12).",
+    "price": 12152,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Deck of Illusions (96)",
+    "description": "A powerful magical item known as the Deck of Illusions (96).",
+    "price": 4468,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Tome of Clear Thought (71)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (71).",
+    "price": 38515,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Wand of Magic Missiles (51)",
+    "description": "A powerful magical item known as the Wand of Magic Missiles (51).",
+    "price": 11401,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Pearl of Power (33)",
+    "description": "A powerful magical item known as the Pearl of Power (33).",
+    "price": 7396,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Ring of Feather Falling (6)",
+    "description": "A powerful magical item known as the Ring of Feather Falling (6).",
+    "price": 12280,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Horn of Valhalla (4)",
+    "description": "A powerful magical item known as the Horn of Valhalla (4).",
+    "price": 18334,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Tome of Clear Thought (95)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (95).",
+    "price": 25273,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind (98)",
+    "description": "A powerful magical item known as the Cloak of Elvenkind (98).",
+    "price": 2601,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Carpet of Flying (38)",
+    "description": "A powerful magical item known as the Carpet of Flying (38).",
+    "price": 9560,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Staff of the Magi (96)",
+    "description": "A powerful magical item known as the Staff of the Magi (96).",
+    "price": 4725,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs (57)",
+    "description": "A powerful magical item known as the Necklace of Fireballs (57).",
+    "price": 8949,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Deck of Illusions (68)",
+    "description": "A powerful magical item known as the Deck of Illusions (68).",
+    "price": 36769,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Tome of Clear Thought (32)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (32).",
+    "price": 5741,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Rod of the Pact Keeper (14)",
+    "description": "A powerful magical item known as the Rod of the Pact Keeper (14).",
+    "price": 14453,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Rod of the Pact Keeper (28)",
+    "description": "A powerful magical item known as the Rod of the Pact Keeper (28).",
+    "price": 14141,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bracers of Defense (77)",
+    "description": "A powerful magical item known as the Bracers of Defense (77).",
+    "price": 22520,
+    "rarity": "Common"
+  },
+  {
+    "name": "Necklace of Fireballs (95)",
+    "description": "A powerful magical item known as the Necklace of Fireballs (95).",
+    "price": 26061,
+    "rarity": "Common"
+  },
+  {
+    "name": "Rod of the Pact Keeper (1)",
+    "description": "A powerful magical item known as the Rod of the Pact Keeper (1).",
+    "price": 29290,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Amulet of Health (20)",
+    "description": "A powerful magical item known as the Amulet of Health (20).",
+    "price": 32692,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Boots of Speed (40)",
+    "description": "A powerful magical item known as the Boots of Speed (40).",
+    "price": 49963,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Wand of Fireballs (23)",
+    "description": "A powerful magical item known as the Wand of Fireballs (23).",
+    "price": 38853,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Carpet of Flying (24)",
+    "description": "A powerful magical item known as the Carpet of Flying (24).",
+    "price": 8986,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Boots of Speed (44)",
+    "description": "A powerful magical item known as the Boots of Speed (44).",
+    "price": 23668,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue (43)",
+    "description": "A powerful magical item known as the Flame Tongue (43).",
+    "price": 33640,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding (46)",
+    "description": "A powerful magical item known as the Bag of Holding (46).",
+    "price": 38808,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Necklace of Fireballs (22)",
+    "description": "A powerful magical item known as the Necklace of Fireballs (22).",
+    "price": 35724,
+    "rarity": "Common"
+  },
+  {
+    "name": "Boots of Speed (1)",
+    "description": "A powerful magical item known as the Boots of Speed (1).",
+    "price": 36521,
+    "rarity": "Common"
+  },
+  {
+    "name": "Boots of Speed (95)",
+    "description": "A powerful magical item known as the Boots of Speed (95).",
+    "price": 1774,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Cape of the Mountebank (82)",
+    "description": "A powerful magical item known as the Cape of the Mountebank (82).",
+    "price": 24377,
+    "rarity": "Common"
+  },
+  {
+    "name": "Ring of Evasion (77)",
+    "description": "A powerful magical item known as the Ring of Evasion (77).",
+    "price": 34455,
+    "rarity": "Common"
+  },
+  {
+    "name": "Cape of the Mountebank (26)",
+    "description": "A powerful magical item known as the Cape of the Mountebank (26).",
+    "price": 32718,
+    "rarity": "Common"
+  },
+  {
+    "name": "Carpet of Flying (77)",
+    "description": "A powerful magical item known as the Carpet of Flying (77).",
+    "price": 43085,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Carpet of Flying (83)",
+    "description": "A powerful magical item known as the Carpet of Flying (83).",
+    "price": 12987,
+    "rarity": "Common"
+  },
+  {
+    "name": "Rod of the Pact Keeper (95)",
+    "description": "A powerful magical item known as the Rod of the Pact Keeper (95).",
+    "price": 30395,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Cloak of Elvenkind (87)",
+    "description": "A powerful magical item known as the Cloak of Elvenkind (87).",
+    "price": 24641,
+    "rarity": "Common"
+  },
+  {
+    "name": "Flame Tongue (48)",
+    "description": "A powerful magical item known as the Flame Tongue (48).",
+    "price": 21458,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Evasion (36)",
+    "description": "A powerful magical item known as the Ring of Evasion (36).",
+    "price": 39576,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Gloves of Thievery (80)",
+    "description": "A powerful magical item known as the Gloves of Thievery (80).",
+    "price": 37769,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue (62)",
+    "description": "A powerful magical item known as the Flame Tongue (62).",
+    "price": 12764,
+    "rarity": "Common"
+  },
+  {
+    "name": "Potion of Healing (96)",
+    "description": "A powerful magical item known as the Potion of Healing (96).",
+    "price": 19061,
+    "rarity": "Common"
+  },
+  {
+    "name": "Cape of the Mountebank (47)",
+    "description": "A powerful magical item known as the Cape of the Mountebank (47).",
+    "price": 22991,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Bracers of Defense (41)",
+    "description": "A powerful magical item known as the Bracers of Defense (41).",
+    "price": 17821,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ring of Protection (57)",
+    "description": "A powerful magical item known as the Ring of Protection (57).",
+    "price": 23496,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Pearl of Power (72)",
+    "description": "A powerful magical item known as the Pearl of Power (72).",
+    "price": 14769,
+    "rarity": "Common"
+  },
+  {
+    "name": "Broom of Flying (93)",
+    "description": "A powerful magical item known as the Broom of Flying (93).",
+    "price": 23481,
+    "rarity": "Common"
+  },
+  {
+    "name": "Boots of Speed (3)",
+    "description": "A powerful magical item known as the Boots of Speed (3).",
+    "price": 30321,
+    "rarity": "Common"
+  },
+  {
+    "name": "Bag of Holding (54)",
+    "description": "A powerful magical item known as the Bag of Holding (54).",
+    "price": 45463,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bracers of Defense (68)",
+    "description": "A powerful magical item known as the Bracers of Defense (68).",
+    "price": 47702,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Cape of the Mountebank (74)",
+    "description": "A powerful magical item known as the Cape of the Mountebank (74).",
+    "price": 5933,
+    "rarity": "Common"
+  },
+  {
+    "name": "Flame Tongue (91)",
+    "description": "A powerful magical item known as the Flame Tongue (91).",
+    "price": 30677,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Manual of Bodily Health (9)",
+    "description": "A powerful magical item known as the Manual of Bodily Health (9).",
+    "price": 34689,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Amulet of Health (30)",
+    "description": "A powerful magical item known as the Amulet of Health (30).",
+    "price": 39694,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Horn of Valhalla (38)",
+    "description": "A powerful magical item known as the Horn of Valhalla (38).",
+    "price": 17207,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Cape of the Mountebank (28)",
+    "description": "A powerful magical item known as the Cape of the Mountebank (28).",
+    "price": 28682,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Sphere of Annihilation (98)",
+    "description": "A powerful magical item known as the Sphere of Annihilation (98).",
+    "price": 45864,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Cloak of Elvenkind (57)",
+    "description": "A powerful magical item known as the Cloak of Elvenkind (57).",
+    "price": 46254,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Robe of the Archmagi (71)",
+    "description": "A powerful magical item known as the Robe of the Archmagi (71).",
+    "price": 25003,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Tome of Clear Thought (34)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (34).",
+    "price": 34608,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs (55)",
+    "description": "A powerful magical item known as the Necklace of Fireballs (55).",
+    "price": 12233,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ioun Stone of Insight (76)",
+    "description": "A powerful magical item known as the Ioun Stone of Insight (76).",
+    "price": 3676,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Potion of Healing (65)",
+    "description": "A powerful magical item known as the Potion of Healing (65).",
+    "price": 21736,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Tome of Clear Thought (30)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (30).",
+    "price": 9396,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Amulet of Health (68)",
+    "description": "A powerful magical item known as the Amulet of Health (68).",
+    "price": 2536,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Amulet of Health (18)",
+    "description": "A powerful magical item known as the Amulet of Health (18).",
+    "price": 47185,
+    "rarity": "Common"
+  },
+  {
+    "name": "Sphere of Annihilation (48)",
+    "description": "A powerful magical item known as the Sphere of Annihilation (48).",
+    "price": 24257,
+    "rarity": "Common"
+  },
+  {
+    "name": "Crystal Ball (88)",
+    "description": "A powerful magical item known as the Crystal Ball (88).",
+    "price": 21833,
+    "rarity": "Common"
+  },
+  {
+    "name": "Carpet of Flying (45)",
+    "description": "A powerful magical item known as the Carpet of Flying (45).",
+    "price": 48704,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Gloves of Thievery (73)",
+    "description": "A powerful magical item known as the Gloves of Thievery (73).",
+    "price": 42205,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Sphere of Annihilation (44)",
+    "description": "A powerful magical item known as the Sphere of Annihilation (44).",
+    "price": 26012,
+    "rarity": "Common"
+  },
+  {
+    "name": "Rod of the Pact Keeper (79)",
+    "description": "A powerful magical item known as the Rod of the Pact Keeper (79).",
+    "price": 7586,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Cape of the Mountebank (41)",
+    "description": "A powerful magical item known as the Cape of the Mountebank (41).",
+    "price": 42542,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Pearl of Power (89)",
+    "description": "A powerful magical item known as the Pearl of Power (89).",
+    "price": 39157,
+    "rarity": "Common"
+  },
+  {
+    "name": "Gloves of Thievery (73)",
+    "description": "A powerful magical item known as the Gloves of Thievery (73).",
+    "price": 22590,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Horn of Valhalla (85)",
+    "description": "A powerful magical item known as the Horn of Valhalla (85).",
+    "price": 47589,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Deck of Illusions (59)",
+    "description": "A powerful magical item known as the Deck of Illusions (59).",
+    "price": 26991,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cape of the Mountebank (98)",
+    "description": "A powerful magical item known as the Cape of the Mountebank (98).",
+    "price": 13840,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Robe of the Archmagi (87)",
+    "description": "A powerful magical item known as the Robe of the Archmagi (87).",
+    "price": 19026,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Pearl of Power (12)",
+    "description": "A powerful magical item known as the Pearl of Power (12).",
+    "price": 38227,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Pearl of Power (15)",
+    "description": "A powerful magical item known as the Pearl of Power (15).",
+    "price": 27781,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Rod of the Pact Keeper (16)",
+    "description": "A powerful magical item known as the Rod of the Pact Keeper (16).",
+    "price": 2818,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Carpet of Flying (45)",
+    "description": "A powerful magical item known as the Carpet of Flying (45).",
+    "price": 42903,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Carpet of Flying (8)",
+    "description": "A powerful magical item known as the Carpet of Flying (8).",
+    "price": 39951,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ring of Protection (17)",
+    "description": "A powerful magical item known as the Ring of Protection (17).",
+    "price": 30271,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding (46)",
+    "description": "A powerful magical item known as the Bag of Holding (46).",
+    "price": 45312,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying (23)",
+    "description": "A powerful magical item known as the Broom of Flying (23).",
+    "price": 15654,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Ioun Stone of Insight (61)",
+    "description": "A powerful magical item known as the Ioun Stone of Insight (61).",
+    "price": 18916,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bracers of Defense (76)",
+    "description": "A powerful magical item known as the Bracers of Defense (76).",
+    "price": 12911,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Carpet of Flying (21)",
+    "description": "A powerful magical item known as the Carpet of Flying (21).",
+    "price": 19176,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Ring of Feather Falling (31)",
+    "description": "A powerful magical item known as the Ring of Feather Falling (31).",
+    "price": 34499,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Bracers of Defense (89)",
+    "description": "A powerful magical item known as the Bracers of Defense (89).",
+    "price": 4621,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Horn of Valhalla (45)",
+    "description": "A powerful magical item known as the Horn of Valhalla (45).",
+    "price": 28370,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Ring of Feather Falling (87)",
+    "description": "A powerful magical item known as the Ring of Feather Falling (87).",
+    "price": 48221,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Sphere of Annihilation (38)",
+    "description": "A powerful magical item known as the Sphere of Annihilation (38).",
+    "price": 25076,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Ring of Evasion (5)",
+    "description": "A powerful magical item known as the Ring of Evasion (5).",
+    "price": 8365,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Broom of Flying (88)",
+    "description": "A powerful magical item known as the Broom of Flying (88).",
+    "price": 16615,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Flame Tongue (57)",
+    "description": "A powerful magical item known as the Flame Tongue (57).",
+    "price": 43906,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Horn of Valhalla (75)",
+    "description": "A powerful magical item known as the Horn of Valhalla (75).",
+    "price": 35005,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Carpet of Flying (91)",
+    "description": "A powerful magical item known as the Carpet of Flying (91).",
+    "price": 42117,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Ring of Protection (7)",
+    "description": "A powerful magical item known as the Ring of Protection (7).",
+    "price": 44376,
+    "rarity": "Common"
+  },
+  {
+    "name": "Broom of Flying (7)",
+    "description": "A powerful magical item known as the Broom of Flying (7).",
+    "price": 40385,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Wand of Magic Missiles (77)",
+    "description": "A powerful magical item known as the Wand of Magic Missiles (77).",
+    "price": 24106,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Wand of Fireballs (24)",
+    "description": "A powerful magical item known as the Wand of Fireballs (24).",
+    "price": 2801,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Pearl of Power (64)",
+    "description": "A powerful magical item known as the Pearl of Power (64).",
+    "price": 27170,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Amulet of Health (87)",
+    "description": "A powerful magical item known as the Amulet of Health (87).",
+    "price": 5833,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Robe of the Archmagi (37)",
+    "description": "A powerful magical item known as the Robe of the Archmagi (37).",
+    "price": 664,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Ioun Stone of Insight (52)",
+    "description": "A powerful magical item known as the Ioun Stone of Insight (52).",
+    "price": 17730,
+    "rarity": "Common"
+  },
+  {
+    "name": "Bag of Holding (53)",
+    "description": "A powerful magical item known as the Bag of Holding (53).",
+    "price": 47694,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Wand of Magic Missiles (15)",
+    "description": "A powerful magical item known as the Wand of Magic Missiles (15).",
+    "price": 41477,
+    "rarity": "Common"
+  },
+  {
+    "name": "Ring of Protection (30)",
+    "description": "A powerful magical item known as the Ring of Protection (30).",
+    "price": 21493,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Ring of Evasion (69)",
+    "description": "A powerful magical item known as the Ring of Evasion (69).",
+    "price": 3125,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Potion of Healing (76)",
+    "description": "A powerful magical item known as the Potion of Healing (76).",
+    "price": 5644,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Wand of Fireballs (43)",
+    "description": "A powerful magical item known as the Wand of Fireballs (43).",
+    "price": 26452,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Amulet of Health (59)",
+    "description": "A powerful magical item known as the Amulet of Health (59).",
+    "price": 1289,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Wand of Magic Missiles (60)",
+    "description": "A powerful magical item known as the Wand of Magic Missiles (60).",
+    "price": 22380,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Carpet of Flying (100)",
+    "description": "A powerful magical item known as the Carpet of Flying (100).",
+    "price": 2396,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ioun Stone of Insight (63)",
+    "description": "A powerful magical item known as the Ioun Stone of Insight (63).",
+    "price": 31561,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Horn of Valhalla (66)",
+    "description": "A powerful magical item known as the Horn of Valhalla (66).",
+    "price": 27303,
+    "rarity": "Common"
+  },
+  {
+    "name": "Staff of the Magi (14)",
+    "description": "A powerful magical item known as the Staff of the Magi (14).",
+    "price": 22471,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Crystal Ball (59)",
+    "description": "A powerful magical item known as the Crystal Ball (59).",
+    "price": 18441,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Robe of the Archmagi (85)",
+    "description": "A powerful magical item known as the Robe of the Archmagi (85).",
+    "price": 18562,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Amulet of Health (62)",
+    "description": "A powerful magical item known as the Amulet of Health (62).",
+    "price": 30397,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Ring of Protection (81)",
+    "description": "A powerful magical item known as the Ring of Protection (81).",
+    "price": 43104,
+    "rarity": "Common"
+  },
+  {
+    "name": "Manual of Bodily Health (1)",
+    "description": "A powerful magical item known as the Manual of Bodily Health (1).",
+    "price": 47695,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Ioun Stone of Insight (39)",
+    "description": "A powerful magical item known as the Ioun Stone of Insight (39).",
+    "price": 34458,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Sphere of Annihilation (38)",
+    "description": "A powerful magical item known as the Sphere of Annihilation (38).",
+    "price": 9505,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions (9)",
+    "description": "A powerful magical item known as the Deck of Illusions (9).",
+    "price": 29646,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Tome of Clear Thought (73)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (73).",
+    "price": 5444,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Deck of Illusions (92)",
+    "description": "A powerful magical item known as the Deck of Illusions (92).",
+    "price": 21659,
+    "rarity": "Common"
+  },
+  {
+    "name": "Ring of Evasion (60)",
+    "description": "A powerful magical item known as the Ring of Evasion (60).",
+    "price": 38624,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ring of Spell Storing (94)",
+    "description": "A powerful magical item known as the Ring of Spell Storing (94).",
+    "price": 34869,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Bag of Holding (70)",
+    "description": "A powerful magical item known as the Bag of Holding (70).",
+    "price": 36367,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Carpet of Flying (31)",
+    "description": "A powerful magical item known as the Carpet of Flying (31).",
+    "price": 34051,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Wand of Fireballs (54)",
+    "description": "A powerful magical item known as the Wand of Fireballs (54).",
+    "price": 41495,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Amulet of Health (55)",
+    "description": "A powerful magical item known as the Amulet of Health (55).",
+    "price": 44165,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Gloves of Thievery (17)",
+    "description": "A powerful magical item known as the Gloves of Thievery (17).",
+    "price": 37881,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Wand of Fireballs (61)",
+    "description": "A powerful magical item known as the Wand of Fireballs (61).",
+    "price": 35049,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Protection (56)",
+    "description": "A powerful magical item known as the Ring of Protection (56).",
+    "price": 33354,
+    "rarity": "Common"
+  },
+  {
+    "name": "Sphere of Annihilation (58)",
+    "description": "A powerful magical item known as the Sphere of Annihilation (58).",
+    "price": 44462,
+    "rarity": "Common"
+  },
+  {
+    "name": "Crystal Ball (11)",
+    "description": "A powerful magical item known as the Crystal Ball (11).",
+    "price": 8819,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Broom of Flying (51)",
+    "description": "A powerful magical item known as the Broom of Flying (51).",
+    "price": 27806,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Wand of Magic Missiles (91)",
+    "description": "A powerful magical item known as the Wand of Magic Missiles (91).",
+    "price": 48170,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Cloak of Elvenkind (34)",
+    "description": "A powerful magical item known as the Cloak of Elvenkind (34).",
+    "price": 30102,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs (7)",
+    "description": "A powerful magical item known as the Necklace of Fireballs (7).",
+    "price": 31389,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Necklace of Fireballs (76)",
+    "description": "A powerful magical item known as the Necklace of Fireballs (76).",
+    "price": 1938,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Helm of Telepathy (36)",
+    "description": "A powerful magical item known as the Helm of Telepathy (36).",
+    "price": 12145,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Boots of Speed (88)",
+    "description": "A powerful magical item known as the Boots of Speed (88).",
+    "price": 16995,
+    "rarity": "Common"
+  },
+  {
+    "name": "Necklace of Fireballs (76)",
+    "description": "A powerful magical item known as the Necklace of Fireballs (76).",
+    "price": 2803,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Necklace of Fireballs (26)",
+    "description": "A powerful magical item known as the Necklace of Fireballs (26).",
+    "price": 30809,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Necklace of Fireballs (32)",
+    "description": "A powerful magical item known as the Necklace of Fireballs (32).",
+    "price": 10445,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Horn of Valhalla (92)",
+    "description": "A powerful magical item known as the Horn of Valhalla (92).",
+    "price": 12740,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Staff of the Magi (97)",
+    "description": "A powerful magical item known as the Staff of the Magi (97).",
+    "price": 16794,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Tome of Clear Thought (86)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (86).",
+    "price": 33407,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ring of Protection (90)",
+    "description": "A powerful magical item known as the Ring of Protection (90).",
+    "price": 5777,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Flame Tongue (38)",
+    "description": "A powerful magical item known as the Flame Tongue (38).",
+    "price": 34328,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Potion of Healing (78)",
+    "description": "A powerful magical item known as the Potion of Healing (78).",
+    "price": 19860,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Sphere of Annihilation (72)",
+    "description": "A powerful magical item known as the Sphere of Annihilation (72).",
+    "price": 32331,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Tome of Clear Thought (45)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (45).",
+    "price": 7589,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue (9)",
+    "description": "A powerful magical item known as the Flame Tongue (9).",
+    "price": 40975,
+    "rarity": "Common"
+  },
+  {
+    "name": "Bracers of Defense (67)",
+    "description": "A powerful magical item known as the Bracers of Defense (67).",
+    "price": 20256,
+    "rarity": "Common"
+  },
+  {
+    "name": "Ring of Feather Falling (78)",
+    "description": "A powerful magical item known as the Ring of Feather Falling (78).",
+    "price": 27712,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Ring of Feather Falling (59)",
+    "description": "A powerful magical item known as the Ring of Feather Falling (59).",
+    "price": 35574,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Sphere of Annihilation (20)",
+    "description": "A powerful magical item known as the Sphere of Annihilation (20).",
+    "price": 39421,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Sphere of Annihilation (96)",
+    "description": "A powerful magical item known as the Sphere of Annihilation (96).",
+    "price": 17189,
+    "rarity": "Common"
+  },
+  {
+    "name": "Helm of Telepathy (73)",
+    "description": "A powerful magical item known as the Helm of Telepathy (73).",
+    "price": 16726,
+    "rarity": "Common"
+  },
+  {
+    "name": "Staff of the Magi (7)",
+    "description": "A powerful magical item known as the Staff of the Magi (7).",
+    "price": 15098,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Ring of Evasion (50)",
+    "description": "A powerful magical item known as the Ring of Evasion (50).",
+    "price": 29528,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Pearl of Power (43)",
+    "description": "A powerful magical item known as the Pearl of Power (43).",
+    "price": 5147,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ring of Feather Falling (36)",
+    "description": "A powerful magical item known as the Ring of Feather Falling (36).",
+    "price": 4757,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Flame Tongue (54)",
+    "description": "A powerful magical item known as the Flame Tongue (54).",
+    "price": 24305,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cape of the Mountebank (42)",
+    "description": "A powerful magical item known as the Cape of the Mountebank (42).",
+    "price": 49596,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Tome of Clear Thought (45)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (45).",
+    "price": 9448,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Rod of the Pact Keeper (98)",
+    "description": "A powerful magical item known as the Rod of the Pact Keeper (98).",
+    "price": 26446,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Protection (20)",
+    "description": "A powerful magical item known as the Ring of Protection (20).",
+    "price": 28751,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Tome of Clear Thought (85)",
+    "description": "A powerful magical item known as the Tome of Clear Thought (85).",
+    "price": 47881,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Flame Tongue (94)",
+    "description": "A powerful magical item known as the Flame Tongue (94).",
+    "price": 32049,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Ring of Spell Storing (34)",
+    "description": "A powerful magical item known as the Ring of Spell Storing (34).",
+    "price": 41783,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying (77)",
+    "description": "A powerful magical item known as the Broom of Flying (77).",
+    "price": 9923,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Manual of Bodily Health (75)",
+    "description": "A powerful magical item known as the Manual of Bodily Health (75).",
+    "price": 17025,
+    "rarity": "Common"
+  },
+  {
+    "name": "Cloak of Elvenkind (2)",
+    "description": "A powerful magical item known as the Cloak of Elvenkind (2).",
+    "price": 33267,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Spell Storing (96)",
+    "description": "A powerful magical item known as the Ring of Spell Storing (96).",
+    "price": 8211,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Horn of Valhalla (79)",
+    "description": "A powerful magical item known as the Horn of Valhalla (79).",
+    "price": 15571,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Pearl of Power (76)",
+    "description": "A powerful magical item known as the Pearl of Power (76).",
+    "price": 21874,
+    "rarity": "Common"
+  },
+  {
+    "name": "Manual of Bodily Health (81)",
+    "description": "A powerful magical item known as the Manual of Bodily Health (81).",
+    "price": 18995,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Amulet of Health (39)",
+    "description": "A powerful magical item known as the Amulet of Health (39).",
+    "price": 49144,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs (97)",
+    "description": "A powerful magical item known as the Necklace of Fireballs (97).",
+    "price": 677,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Broom of Flying (10)",
+    "description": "A powerful magical item known as the Broom of Flying (10).",
+    "price": 2794,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Bag of Holding (66)",
+    "description": "A powerful magical item known as the Bag of Holding (66).",
+    "price": 15651,
+    "rarity": "Legendary"
+  },
+  {
+    "name": "Helm of Telepathy (22)",
+    "description": "A powerful magical item known as the Helm of Telepathy (22).",
+    "price": 11665,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Carpet of Flying (74)",
+    "description": "A powerful magical item known as the Carpet of Flying (74).",
+    "price": 19677,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Wand of Magic Missiles (58)",
+    "description": "A powerful magical item known as the Wand of Magic Missiles (58).",
+    "price": 15601,
+    "rarity": "Very Rare"
+  },
+  {
+    "name": "Ring of Protection (25)",
+    "description": "A powerful magical item known as the Ring of Protection (25).",
+    "price": 1276,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ring of Feather Falling (87)",
+    "description": "A powerful magical item known as the Ring of Feather Falling (87).",
+    "price": 45246,
+    "rarity": "Common"
+  },
+  {
+    "name": "Cloak of Elvenkind (48)",
+    "description": "A powerful magical item known as the Cloak of Elvenkind (48).",
+    "price": 35413,
+    "rarity": "Legendary"
+  }
+]
