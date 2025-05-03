@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Heals 2d4+2 HP.",
+    "price": 50,
+    "rarity": "Common"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "description": "Casts Magic Missile.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Extra-dimensional storage.",
+    "price": 4000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a spell slot.",
+    "price": 6000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "Weapon that ignites for extra fire damage.",
+    "price": 5000,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "description": "Advantage on Stealth checks.",
+    "price": 5000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Deck of Illusions",
+    "description": "Creates random illusions.",
+    "price": 6120,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "Throw fireball beads.",
+    "price": 4800,
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "Protection from cold.",
+    "price": 1000,
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Broom of Flying",
+    "description": "A flying broom you can ride.",
+    "price": 8000,
+    "rarity": "Uncommon"
+  }
+]

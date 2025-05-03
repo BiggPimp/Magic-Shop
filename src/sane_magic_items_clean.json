@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Potion of Healing",
+    "price": 50,
+    "rarity": "Common",
+    "description": "Heals 2d4 + 2 HP when consumed."
+  },
+  {
+    "name": "Helm of Telepathy",
+    "price": 12000,
+    "rarity": "Uncommon",
+    "description": "Allows telepathic communication and reading surface thoughts."
+  },
+  {
+    "name": "Bag of Holding",
+    "price": 4000,
+    "rarity": "Uncommon",
+    "description": "A magical bag capable of holding much more than its size suggests."
+  },
+  {
+    "name": "Ring of Spell Storing",
+    "price": 24000,
+    "rarity": "Rare",
+    "description": "Can store up to 5 levels worth of spells for later use."
+  },
+  {
+    "name": "Cloak of Invisibility",
+    "price": 80000,
+    "rarity": "Legendary",
+    "description": "Grants the wearer the ability to become invisible at will."
+  },
+  {
+    "name": "Wand of Fireballs",
+    "price": 32000,
+    "rarity": "Rare",
+    "description": "Casts the Fireball spell using charges stored within."
+  },
+  {
+    "name": "Quaal's Feather Token (Anchor)",
+    "price": 50,
+    "rarity": "Rare",
+    "description": "Creates an immovable anchor when used."
+  },
+  {
+    "name": "Necklace of Fireballs (Three beads)",
+    "price": 960,
+    "rarity": "Rare",
+    "description": "Necklace containing beads that explode as Fireballs when thrown."
+  }
+]

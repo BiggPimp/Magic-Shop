@@ -1,0 +1,684 @@
+[
+  {
+    "name": "Adamantine Armor",
+    "rarity": "Uncommon",
+    "price": 500,
+    "page": "150",
+    "description": "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
+  },
+  {
+    "name": "Alchemy Jug",
+    "rarity": "Uncommon",
+    "price": 4500,
+    "page": "150",
+    "description": "This ceramic jug appears to be able to hold a gallon of liquid but can actually produce several types of liquids depending on your command word."
+  },
+  {
+    "name": "Amulet of Health",
+    "rarity": "Very Rare",
+    "price": 5000,
+    "page": "150",
+    "description": "Your Constitution score is 19 while you wear this amulet. It has no effect on you if your Constitution is already 19 or higher."
+  },
+  {
+    "name": "Amulet of Proof against Detection and Location",
+    "rarity": "Uncommon",
+    "price": 1500,
+    "page": "150",
+    "description": "While wearing this amulet, you are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors."
+  },
+  {
+    "name": "Amulet of the Planes",
+    "rarity": "Very Rare",
+    "price": 12000,
+    "page": "150",
+    "description": "While wearing this amulet, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check. On a success, you cast the plane shift spell. On a failure, you and each creature within 15 feet of you travel to a random destination."
+  },
+  {
+    "name": "Animated Shield",
+    "rarity": "Very Rare",
+    "price": 6000,
+    "page": "151",
+    "description": "While holding this shield, you can speak its command word as a bonus action to cause it to animate. The shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The shield remains animated for 1 minute or until you use a bonus action to end the effect."
+  },
+  {
+    "name": "Apparatus of Kwalish",
+    "rarity": "Legendary",
+    "price": 35000,
+    "page": "151",
+    "description": "This clumsy-looking contraption can transform into a submersible vehicle. It has multiple levers inside to control movement, claws, and defenses. It can hold up to two Medium or smaller creatures inside."
+  },
+  {
+    "name": "Armor of Invulnerability",
+    "rarity": "Legendary",
+    "price": 30000,
+    "page": "152",
+    "description": "You have resistance to nonmagical damage while wearing this armor. You can also use an action to become immune to nonmagical damage for 10 minutes. Once this special action is used, it can't be used again until the next dawn."
+  },
+  {
+    "name": "Armor of Resistance",
+    "rarity": "Rare",
+    "price": 6000,
+    "page": "152",
+    "description": "While wearing this armor, you have resistance to one type of damage determined when the armor is created."
+  },
+  {
+    "name": "Armor of Vulnerability",
+    "rarity": "Rare",
+    "price": 3000,
+    "page": "152",
+    "description": "This cursed armor reduces your resistance to a particular damage type and increases your vulnerability instead."
+  },
+  {
+    "name": "Arrow-Catching Shield",
+    "rarity": "Rare",
+    "price": 6000,
+    "page": "152",
+    "description": "While holding this shield, you gain a +2 bonus to AC against ranged attacks. If a creature within 5 feet of you is targeted by a ranged attack, you can use your reaction to become the target instead."
+  },
+  {
+    "name": "Bag of Holding",
+    "rarity": "Uncommon",
+    "price": 4000,
+    "page": "153",
+    "description": "This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet."
+  },
+  {
+    "name": "Bag of Tricks",
+    "rarity": "Uncommon",
+    "price": 4500,
+    "page": "154",
+    "description": "This bag contains fuzzy objects that can be pulled out and thrown to summon random beasts that obey your commands."
+  },
+  {
+    "name": "Bead of Force",
+    "rarity": "Rare",
+    "price": 9600,
+    "page": "154",
+    "description": "You can throw this tiny black sphere up to 60 feet, where it explodes on impact and traps creatures inside a resilient force sphere."
+  },
+  {
+    "name": "Belt of Dwarvenkind",
+    "rarity": "Rare",
+    "price": 5000,
+    "page": "155",
+    "description": "While wearing this belt, you gain advantage on Charisma (Persuasion) checks made to interact with dwarves, have a chance to grow a beard (if you're capable of growing one), and gain darkvision, constitution bonuses, and poison resistances if you don't already have them."
+  },
+  {
+    "name": "Belt of Giant Strength (Hill Giant)",
+    "rarity": "Rare",
+    "price": 5000,
+    "page": "155",
+    "description": "Your Strength score is 21 while you wear this belt."
+  },
+  {
+    "name": "Belt of Giant Strength (Frost/Stone Giant)",
+    "rarity": "Very Rare",
+    "price": 8000,
+    "page": "155",
+    "description": "Your Strength score is 23 while you wear this belt."
+  },
+  {
+    "name": "Belt of Giant Strength (Fire Giant)",
+    "rarity": "Very Rare",
+    "price": 12000,
+    "page": "155",
+    "description": "Your Strength score is 25 while you wear this belt."
+  },
+  {
+    "name": "Belt of Giant Strength (Cloud Giant)",
+    "rarity": "Legendary",
+    "price": 20000,
+    "page": "155",
+    "description": "Your Strength score is 27 while you wear this belt."
+  },
+  {
+    "name": "Belt of Giant Strength (Storm Giant)",
+    "rarity": "Legendary",
+    "price": 30000,
+    "page": "155",
+    "description": "Your Strength score is 29 while you wear this belt."
+  },
+
+  {
+    "name": "Blackrazor",
+    "rarity": "Legendary",
+    "price": 30000,
+    "page": "218",
+    "description": ""
+  },
+  {
+    "name": "Blessed Book",
+    "rarity": "Uncommon",
+    "price": 1000,
+    "page": "153",
+    "description": "This fine tome is always clean and dry. Writing in it requires only 1 minute per page and ink never runs out."
+  },
+  {
+    "name": "Boots of Elvenkind",
+    "rarity": "Uncommon",
+    "price": 2500,
+    "page": "155",
+    "description": "While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently."
+  },
+  {
+    "name": "Boots of Levitation",
+    "rarity": "Rare",
+    "price": 5000,
+    "page": "155",
+    "description": "While you wear these boots, you can cast the levitate spell on yourself at will, without expending a spell slot or material components."
+  },
+  {
+    "name": "Boots of Speed",
+    "rarity": "Rare",
+    "price": 6000,
+    "page": "155",
+    "description": "While you wear these boots, you can use a bonus action and click the boots' heels together. If you do, the boots double your walking speed, and any creature that makes an opportunity attack against you has disadvantage on the attack roll. The effect lasts for up to 10 minutes."
+  },
+  {
+    "name": "Boots of Striding and Springing",
+    "rarity": "Uncommon",
+    "price": 4000,
+    "page": "156",
+    "description": "While you wear these boots, your walking speed becomes 30 feet unless your walking speed is higher, and your jumping distance is tripled."
+  },
+  {
+    "name": "Boots of the Winterlands",
+    "rarity": "Uncommon",
+    "price": 3000,
+    "page": "156",
+    "description": "These fur-lined boots keep your feet warm, and you ignore difficult terrain created by ice or snow. You can also tolerate temperatures as low as –50 degrees Fahrenheit without any additional protection."
+  },
+  {
+    "name": "Bowl of Commanding Water Elementals",
+    "rarity": "Rare",
+    "price": 8000,
+    "page": "156",
+    "description": "While this bowl is filled with water, you can use an action to speak the bowl’s command word and summon a water elemental, as if you had cast the conjure elemental spell. The bowl can’t be used this way again until the next dawn."
+  },
+  {
+    "name": "Bracers of Archery",
+    "rarity": "Uncommon",
+    "price": 1500,
+    "page": "156",
+    "description": "While wearing these bracers, you have proficiency with the longbow and shortbow, and you gain a +2 bonus to damage rolls made with such weapons."
+  },
+  {
+    "name": "Bracers of Defense",
+    "rarity": "Rare",
+    "price": 6000,
+    "page": "156",
+    "description": "While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield."
+  },
+  {
+    "name": "Brass Horn of Valhalla",
+    "rarity": "Rare",
+    "price": 8400,
+    "page": "175",
+    "description": "You can use an action to blow this horn. In response, warrior spirits from the plane of Ysgard appear within 60 feet of you. They return to Ysgard after 1 hour or when they drop to 0 hit points."
+  },
+  {
+    "name": "Brazier of Commanding Fire Elementals",
+    "rarity": "Rare",
+    "price": 8000,
+    "page": "156",
+    "description": "While a fire burns in this brass brazier, you can use an action to speak the brazier’s command word and summon a fire elemental. The brazier can’t be used this way again until the next dawn."
+  },
+  {
+    "name": "Brooch of Shielding",
+    "rarity": "Uncommon",
+    "price": 2000,
+    "page": "156",
+    "description": "While wearing this brooch, you have resistance to force damage, and you are immune to damage from the magic missile spell."
+  },
+  {
+    "name": "Broom of Flying",
+    "rarity": "Uncommon",
+    "price": 8000,
+    "page": "156",
+    "description": "This wooden broom, which weighs 3 pounds and functions like a flying mount, can carry up to 400 pounds, but its flying speed becomes 30 feet if carrying over 200 pounds."
+  },
+  {
+    "name": "Candle of Invocation",
+    "rarity": "Very Rare",
+    "price": 15000,
+    "page": "157",
+    "description": "This magic candle is dedicated to a deity and gives off an aura that boosts spells of the corresponding alignment. The candle must be used carefully, as misuse may anger the deity."
+  },
+  {
+    "name": "Cape of the Mountebank",
+    "rarity": "Rare",
+    "price": 6000,
+    "page": "157",
+    "description": "While wearing this cape, you can use it to cast the dimension door spell as an action. The cape vanishes in a puff of smoke when you teleport."
+  },
+  {
+    "name": "Carpet of Flying",
+    "rarity": "Very Rare",
+    "price": 20000,
+    "page": "157",
+    "description": "You can speak the carpet’s command word as an action to make the carpet hover and fly. It has a specific size, capacity, and flying speed depending on its size."
+  },
+  {
+    "name": "Censer of Controlling Air Elementals",
+    "rarity": "Rare",
+    "price": 8000,
+    "page": "157",
+    "description": "While incense is burning in this censer, you can use an action to speak the censer’s command word and summon an air elemental. It can't be used again until the next dawn."
+  },
+  
+  {
+    "name": "Chime of Opening",
+    "rarity": "Rare",
+    "price": 6000,
+    "page": "158",
+    "description": "This hollow metal tube produces a clear chime when struck. Pointing it at a locked object causes it to unlock. It can be used ten times before it becomes nonmagical."
+  },
+  {
+    "name": "Circlet of Blasting",
+    "rarity": "Uncommon",
+    "price": 2400,
+    "page": "158",
+    "description": "While wearing this circlet, you can use an action to cast the scorching ray spell with it. Once used, it can't be used again until the next dawn."
+  },
+  {
+    "name": "Cloak of Arachnida",
+    "rarity": "Very Rare",
+    "price": 14000,
+    "page": "158",
+    "description": "You gain the ability to climb difficult surfaces and upside down, immunity to spider-related poisons, and resistance to poison damage. You can also cast web once per day."
+  },
+  {
+    "name": "Cloak of Displacement",
+    "rarity": "Rare",
+    "price": 6000,
+    "page": "158",
+    "description": "While you wear this cloak, it creates an illusion that makes you appear to be standing in a place near your actual location, granting attackers disadvantage against you until you are hit."
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "rarity": "Uncommon",
+    "price": 3000,
+    "page": "158",
+    "description": "While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide."
+  },
+  {
+    "name": "Cloak of Invisibility",
+    "rarity": "Legendary",
+    "price": 30000,
+    "page": "158",
+    "description": "While wearing this cloak, you can pull its hood up to become invisible. Anything you are carrying or wearing is invisible with you. The cloak has a limited number of minutes of invisibility per day."
+  },
+  {
+    "name": "Cloak of Protection",
+    "rarity": "Uncommon",
+    "price": 4000,
+    "page": "159",
+    "description": "You gain a +1 bonus to AC and saving throws while you wear this cloak."
+  },
+  {
+    "name": "Cloak of the Bat",
+    "rarity": "Rare",
+    "price": 6000,
+    "page": "159",
+    "description": "While wearing this cloak in dim light or darkness, you can fly at a speed of 40 feet. If you hold the edges of the cloak out, you can use it to glide."
+  },
+  {
+    "name": "Cloak of the Manta Ray",
+    "rarity": "Uncommon",
+    "price": 1800,
+    "page": "159",
+    "description": "While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet."
+  },
+  {
+    "name": "Crystal Ball",
+    "rarity": "Legendary",
+    "price": 25000,
+    "page": "159",
+    "description": "The typical crystal ball allows you to cast the scrying spell. Some versions are more powerful and come with additional properties."
+  },
+  {
+    "name": "Cube of Force",
+    "rarity": "Rare",
+    "price": 12000,
+    "page": "160",
+    "description": "This cube has 6 faces that allow the user to generate different types of force barriers that protect against various effects like creatures, objects, gases, and magic."
+  },
+  {
+    "name": "Cubic Gate",
+    "rarity": "Legendary",
+    "price": 28000,
+    "page": "160",
+    "description": "This cube allows the user to open gates to different planes or teleport to those planes. Each side corresponds to a specific plane of existence."
+  },
+  {
+    "name": "Daern's Instant Fortress",
+    "rarity": "Rare",
+    "price": 6000,
+    "page": "160",
+    "description": "This small metal cube can be activated to become a massive fortress. The fortress is made of stone and includes arrow slits, battlements, and a door that can be locked."
+  },
+  {
+    "name": "Dagger of Venom",
+    "rarity": "Rare",
+    "price": 3500,
+    "page": "160",
+    "description": "You can use an action to cause thick black poison to coat the blade. The poison remains for 1 minute or until an attack using this weapon hits a creature."
+  },
+  {
+    "name": "Dancing Sword",
+    "rarity": "Very Rare",
+    "price": 8000,
+    "page": "160",
+    "description": "You can use a bonus action to cause this magic sword to fly into the air and attack on its own for up to 4 rounds."
+  },
+  {
+    "name": "Decanter of Endless Water",
+    "rarity": "Uncommon",
+    "price": 4500,
+    "page": "161",
+    "description": "This stoppered flask sloshes when shaken, as if it contains water. You can speak one of three command words to produce different quantities of fresh water from the flask."
+  },
+  {
+    "name": "Deck of Illusions",
+    "rarity": "Uncommon",
+    "price": 8000,
+    "page": "161",
+    "description": "This box contains a set of parchment cards. You can draw a card and throw it to the ground to create a visual illusion of a creature."
+  },
+  {
+    "name": "Defender",
+    "rarity": "Legendary",
+    "price": 20000,
+    "page": "164",
+    "description": "You gain a +3 bonus to attack and damage rolls made with this magic weapon. As a bonus action, you can transfer some or all of the bonus to your AC instead."
+  },
+  {
+    "name": "Dimensional Shackles",
+    "rarity": "Rare",
+    "price": 5000,
+    "page": "165",
+    "description": "These shackles prevent a creature bound by them from teleporting or using any means of extradimensional movement."
+  },
+   {
+    "name": "Dragon Slayer",
+    "rarity": "Rare",
+    "price": 5000,
+    "page": "166",
+    "description": "You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a dragon with it, the dragon takes an extra 3d6 damage of the weapon’s type."
+  },
+  {
+    "name": "Driftglobe",
+    "rarity": "Uncommon",
+    "price": 750,
+    "page": "166",
+    "description": "This small sphere of glass can emanate light or daylight and can float and follow you, hovering 5 feet away."
+  },
+  {
+    "name": "Dwarven Plate",
+    "rarity": "Very Rare",
+    "price": 8000,
+    "page": "167",
+    "description": "While wearing this armor, you gain a +2 bonus to AC. You have advantage on saving throws against spells and other magical effects."
+  },
+  {
+    "name": "Dwarven Thrower",
+    "rarity": "Very Rare",
+    "price": 9000,
+    "page": "167",
+    "description": "This warhammer is granted a +3 bonus when thrown and deals an extra 1d8 damage to giants. It returns to the wielder’s hand after being thrown."
+  },
+  {
+    "name": "Efreeti Bottle",
+    "rarity": "Legendary",
+    "price": 18000,
+    "page": "167",
+    "description": "This bottle can summon an efreeti. Depending on how it's opened, the efreeti might serve you, grant wishes, or become hostile."
+  },
+  {
+    "name": "Eversmoking Bottle",
+    "rarity": "Uncommon",
+    "price": 3000,
+    "page": "168",
+    "description": "This bottle pours out thick smoke when opened, heavily obscuring an area around it until stopped."
+  },
+  {
+    "name": "Eyes of Charming",
+    "rarity": "Uncommon",
+    "price": 2500,
+    "page": "168",
+    "description": "These crystal lenses fit over the eyes. While wearing them, you can cast the charm person spell three times per day."
+  },
+  {
+    "name": "Eyes of Minute Seeing",
+    "rarity": "Uncommon",
+    "price": 1000,
+    "page": "168",
+    "description": "While wearing these lenses, you have advantage on Intelligence (Investigation) checks that rely on sight while searching an area that is no more than a foot across."
+  },
+  {
+    "name": "Eyes of the Eagle",
+    "rarity": "Uncommon",
+    "price": 2500,
+    "page": "168",
+    "description": "These crystal lenses give you advantage on Wisdom (Perception) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects."
+  },
+  {
+    "name": "Figurine of Wondrous Power (Bronze Griffon)",
+    "rarity": "Rare",
+    "price": 8000,
+    "page": "169",
+    "description": "This bronze figurine transforms into a griffon for up to 6 hours. Once used, it can’t be used again until 5 days have passed."
+  },
+  {
+    "name": "Figurine of Wondrous Power (Ebony Fly)",
+    "rarity": "Rare",
+    "price": 8000,
+    "page": "169",
+    "description": "This ebony figurine becomes a giant fly for up to 12 hours. It can’t be used again for 2 days."
+  },
+  {
+    "name": "Figurine of Wondrous Power (Golden Lions)",
+    "rarity": "Rare",
+    "price": 8000,
+    "page": "169",
+    "description": "These golden lion figurines transform into lions for up to 1 hour. Each can be used once per week."
+  },
+  {
+    "name": "Figurine of Wondrous Power (Ivory Goats)",
+    "rarity": "Rare",
+    "price": 8000,
+    "page": "169",
+    "description": "The three goats (Traveling, Travail, Terror) each transform for different durations and powers. Each goat can be used separately."
+  },
+  {
+    "name": "Figurine of Wondrous Power (Marble Elephant)",
+    "rarity": "Rare",
+    "price": 8000,
+    "page": "169",
+    "description": "This figurine becomes an elephant for up to 24 hours. It can’t be used again for 7 days."
+  },
+  {
+    "name": "Figurine of Wondrous Power (Obsidian Steed)",
+    "rarity": "Very Rare",
+    "price": 10000,
+    "page": "169",
+    "description": "This steed is a nightmare under your control for up to 24 hours, with risks of rebellion when summoned. It can’t be used again for 5 days."
+  },
+  {
+    "name": "Flame Tongue",
+    "rarity": "Rare",
+    "price": 8000,
+    "page": "170",
+    "description": "When you speak this magic sword’s command word, flames erupt from its blade, dealing an extra 2d6 fire damage."
+  },
+  {
+    "name": "Frost Brand",
+    "rarity": "Very Rare",
+    "price": 10000,
+    "page": "171",
+    "description": "When you hit with this magic weapon, it deals an extra 1d6 cold damage. While attuned, you gain resistance to fire damage and can extinguish flames near you."
+  },
+  {
+    "name": "Gem of Brightness",
+    "rarity": "Uncommon",
+    "price": 4000,
+    "page": "171",
+    "description": "This prism has 50 charges. You can expend charges to shed light, blind creatures, or fire a beam of light."
+  },
+  {
+    "name": "Gem of Seeing",
+    "rarity": "Rare",
+    "price": 6000,
+    "page": "171",
+    "description": "While wearing this gem on your forehead, you can activate it to gain truesight for 10 minutes. It can be used 3 times per day."
+  },
+  {
+    "name": "Giant Slayer",
+    "rarity": "Rare",
+    "price": 5000,
+    "page": "172",
+    "description": "You gain a +1 bonus to attack and damage rolls made with this weapon. When you hit a giant with it, the giant takes an extra 2d6 damage."
+  },
+  
+  {
+    "name": "Gloves of Missile Snaring",
+    "rarity": "Uncommon",
+    "price": 3000,
+    "page": "172",
+    "description": "When a ranged weapon attack hits you while you’re wearing these gloves, you can use your reaction to reduce the damage by 1d10 + your Dexterity modifier, provided you have a free hand."
+  },
+  {
+    "name": "Gloves of Swimming and Climbing",
+    "rarity": "Uncommon",
+    "price": 3000,
+    "page": "172",
+    "description": "While wearing these gloves, you gain a swimming speed and a climbing speed equal to your walking speed."
+  },
+  {
+    "name": "Gloves of Thievery",
+    "rarity": "Uncommon",
+    "price": 2500,
+    "page": "172",
+    "description": "These gloves are invisible while worn. While wearing them, you gain a +5 bonus to Dexterity (Sleight of Hand) checks and Dexterity checks made to pick locks."
+  },
+  {
+    "name": "Goggles of Night",
+    "rarity": "Uncommon",
+    "price": 3000,
+    "page": "172",
+    "description": "While wearing these dark lenses, you have darkvision out to a range of 60 feet. If you already have darkvision, its range increases by 60 feet."
+  },
+  {
+    "name": "Hammer of Thunderbolts",
+    "rarity": "Legendary",
+    "price": 25000,
+    "page": "173",
+    "description": ""
+  },
+  {
+    "name": "Handy Haversack",
+    "rarity": "Rare",
+    "price": 6000,
+    "page": "174",
+    "description": "This backpack has extra-dimensional spaces that hold more than they appear. It is always organized and takes an action to retrieve an item."
+  },
+  {
+    "name": "Headband of Intellect",
+    "rarity": "Uncommon",
+    "price": 3000,
+    "page": "173",
+    "description": "While wearing this headband, your Intelligence score is 19. It has no effect if your Intelligence is already 19 or higher."
+  },
+  {
+    "name": "Helm of Brilliance",
+    "rarity": "Very Rare",
+    "price": 18000,
+    "page": "173",
+    "description": "This jeweled helm contains 50 gems. You can use them to cast spells such as fireball, daylight, and prismatic spray. It also sheds bright light and grants resistance to fire damage."
+  },
+  {
+    "name": "Helm of Comprehending Languages",
+    "rarity": "Uncommon",
+    "price": 1800,
+    "page": "173",
+    "description": "While wearing this helm, you can use an action to cast the comprehend languages spell at will."
+  },
+  {
+    "name": "Helm of Telepathy",
+    "rarity": "Uncommon",
+    "price": 5000,
+    "page": "174",
+    "description": "While wearing this helm, you can use an action to cast detect thoughts. You can also send telepathic messages to creatures you can see."
+  },
+  {
+    "name": "Horn of Blasting",
+    "rarity": "Rare",
+    "price": 6000,
+    "page": "174",
+    "description": "You can use this horn to unleash a thunderous blast in a 30-foot cone. Creatures in the area take thunder damage and may be deafened. The horn has a 20% chance to explode."
+  },
+  {
+    "name": "Horn of Valhalla",
+    "rarity": "Rare",
+    "price": 8000,
+    "page": "175",
+    "description": "When blown, this horn summons a group of berserkers from Valhalla to aid you in combat. The type of horn determines the number and kind of warriors summoned."
+  },
+  {
+    "name": "Horseshoes of Speed",
+    "rarity": "Rare",
+    "price": 4000,
+    "page": "175",
+    "description": "These horseshoes increase a mount’s base speed by 30 feet and give it surefooted movement."
+  },
+  {
+    "name": "Ioun Stone (Insight)",
+    "rarity": "Very Rare",
+    "price": 8000,
+    "page": "176",
+    "description": "While this pale blue rhomboid orbits your head, your Wisdom score increases by 2, to a maximum of 20."
+  },
+  {
+    "name": "Ioun Stone (Leadership)",
+    "rarity": "Very Rare",
+    "price": 8000,
+    "page": "176",
+    "description": "While this marbled pink rhomboid orbits your head, your Charisma score increases by 2, to a maximum of 20."
+  },
+  {
+    "name": "Ioun Stone (Strength)",
+    "rarity": "Very Rare",
+    "price": 8000,
+    "page": "176",
+    "description": "While this deep red sphere orbits your head, your Strength score increases by 2, to a maximum of 20."
+  },
+  {
+    "name": "Tome of Understanding",
+    "rarity": "Very Rare",
+    "price": 12000,
+    "page": "209",
+    "description": "Spend 48 hours over a period of 6 days or fewer studying the book; your Wisdom increases by 2, to a maximum of 30."
+  },
+  {
+    "name": "Tome of Leadership and Influence",
+    "rarity": "Very Rare",
+    "price": 12000,
+    "page": "209",
+    "description": "Spend 48 hours over a period of 6 days or fewer studying the book; your Charisma increases by 2, to a maximum of 30."
+  },
+  {
+    "name": "Tome of Clear Thought",
+    "rarity": "Very Rare",
+    "price": 12000,
+    "page": "209",
+    "description": "Spend 48 hours over a period of 6 days or fewer studying the book; your Intelligence increases by 2, to a maximum of 30."
+  }
+
+
+]
+
+
+
+
+
