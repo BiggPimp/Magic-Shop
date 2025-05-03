@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/magic-shop/static/css/main.dd1a99fd.css",
-    "main.js": "/magic-shop/static/js/main.a26b3746.js",
-    "static/js/453.82717004.chunk.js": "/magic-shop/static/js/453.82717004.chunk.js",
-    "index.html": "/magic-shop/index.html",
-    "main.dd1a99fd.css.map": "/magic-shop/static/css/main.dd1a99fd.css.map",
-    "main.a26b3746.js.map": "/magic-shop/static/js/main.a26b3746.js.map",
-    "453.82717004.chunk.js.map": "/magic-shop/static/js/453.82717004.chunk.js.map"
+    "main.css": "/Magic-Shop/static/css/main.dd1a99fd.css",
+    "main.js": "/Magic-Shop/static/js/main.144c8ceb.js",
+    "static/js/453.82717004.chunk.js": "/Magic-Shop/static/js/453.82717004.chunk.js",
+    "index.html": "/Magic-Shop/index.html",
+    "main.dd1a99fd.css.map": "/Magic-Shop/static/css/main.dd1a99fd.css.map",
+    "main.144c8ceb.js.map": "/Magic-Shop/static/js/main.144c8ceb.js.map",
+    "453.82717004.chunk.js.map": "/Magic-Shop/static/js/453.82717004.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd1a99fd.css",
-    "static/js/main.a26b3746.js"
+    "static/js/main.144c8ceb.js"
   ]
 }
